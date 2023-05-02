@@ -4,6 +4,14 @@
 ## Toolchain and workflow
 
 ### Grab TS files into OmegaT source dir
+- colorfx.ts
+- image.ts
+- tnzcore.ts
+- tnztools.ts
+- toonz.ts
+- toonzlib.ts
+- toonzat.ts
+
 
 ### Convert TS to PO with lconvert (Qt)
 ```
