@@ -3,7 +3,7 @@
 
 ## Toolchain and workflow
 
-### Grab TS files into OmegaT source dir
+### 1. Grab TS files into OmegaT source dir and overwrite existings 
 - colorfx.ts
 - image.ts
 - tnzcore.ts
@@ -13,25 +13,26 @@
 - toonzat.ts
 
 
-### Convert TS to PO with lconvert (Qt)
+### 2. Convert TS to PO with lconvert (Qt)
 ```
 lconvert colorfx.ts -o colorfx.po && lconvert image.ts -o image.po && lconvert tnzcore.ts -o tnzcore.po && lconvert tnztools.ts -o tnztools.po && lconvert toonz.ts -o toonz.po && lconvert toonzlib.ts -o toonzlib.po && lconvert toonzqt.ts -o toonzqt.po
 ```
-### Translate and QA with OmegaT
-Version: OmegaT-4.3.3_0_924066809
+### 3. Translate and QA with OmegaT
+Required version: OmegaT-4.3.3_0_924066809 or newer
 
-### Convert PO back to TS with lconvert in OmegaT target dir
+
+### 4. Convert PO back to TS with lconvert in OmegaT target dir
 ```
 lconvert colorfx.po -o colorfx.ts && lconvert image.po -o image.ts && lconvert tnzcore.po -o tnzcore.ts && lconvert tnztools.po -o tnztools.ts && lconvert toonz.po -o toonz.ts && lconvert toonzlib.po -o toonzlib.ts && lconvert toonzqt.po -o toonzqt.ts
 ```
 
-### Convert translated TS to QM (Optional)
+### 5. Convert translated TS to QM (Optional)
 ```
 lconvert colorfx.ts -o colorfx.qm && lconvert image.ts -o image.qm && lconvert tnzcore.ts -o tnzcore.qm && lconvert tnztools.ts -o tnztools.qm && lconvert toonz.ts -o toonz.qm && lconvert toonzlib.ts -o toonzlib.qm && lconvert toonzqt.ts -o toonzqt.qm
 ```
 
-### Push final TS and QM files to OpenToonz official repo
-github workflow
+### 6. Push final TS and QM files to OpenToonz official repo
+flowing github workflow
 
 ---
 
