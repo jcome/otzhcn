@@ -4026,8 +4026,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>Add Match Line Inks</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>添加适配线条的墨迹</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T031703Z">
+        <seg>添加适配线条的墨线</seg>
       </tuv>
     </tu>
     <tu>
@@ -11076,8 +11076,8 @@ but a random crash might occur, use at your own risk.</seg>
       <tuv lang="EN-US">
         <seg>Enhanced ink recognition</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>增强描线识别</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T032032Z">
+        <seg>增强墨线识别</seg>
       </tuv>
     </tu>
     <tu>
@@ -17515,8 +17515,8 @@ in non alpha-enabled image format.</seg>
       <tuv lang="EN-US">
         <seg>Merge Inks</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>合并墨迹</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T031720Z">
+        <seg>合并墨线</seg>
       </tuv>
     </tu>
     <tu>
@@ -17524,8 +17524,8 @@ in non alpha-enabled image format.</seg>
         <seg>Merge Inks : If the target level has the same style as the match line ink
 (i.e. with the same index and the same color), the existing style will be used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230430T231159Z" creationid="yuchen" creationdate="20230430T061520Z">
-        <seg>合并勾画：如果目标层级拥有与适配线勾画相同的样式（比如相同的索引和相同的颜色），将使用现有样式。</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T031854Z" creationid="yuchen" creationdate="20230430T061520Z">
+        <seg>合并墨线：如果目标层级与适配线的墨线样式相同（比如相同索引和相同颜色），将使用现有样式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24270,8 +24270,8 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Segment Ink</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>自动分段</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T031630Z">
+        <seg>分段墨线</seg>
       </tuv>
     </tu>
     <tu>
@@ -29872,8 +29872,8 @@ if both are possible on coding file path.</seg>
       <tuv lang="EN-US">
         <seg>Use Ink:</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>使用墨迹:</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T031712Z">
+        <seg>使用墨线:</seg>
       </tuv>
     </tu>
     <tu>

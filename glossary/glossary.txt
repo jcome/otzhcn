@@ -14,3 +14,4 @@ guide	参考线
 cell	帧格	用于存放帧的单元格
 
 match line	适配线	TODO
+Windows Ink	Windows Ink	专有名词，不翻译。
