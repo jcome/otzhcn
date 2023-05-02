@@ -31,7 +31,7 @@ lconvert colorfx.po -o colorfx.ts && lconvert image.po -o image.ts && lconvert t
 lconvert colorfx.ts -o colorfx.qm && lconvert image.ts -o image.qm && lconvert tnzcore.ts -o tnzcore.qm && lconvert tnztools.ts -o tnztools.qm && lconvert toonz.ts -o toonz.qm && lconvert toonzlib.ts -o toonzlib.qm && lconvert toonzqt.ts -o toonzqt.qm
 ```
 
-### 6. Push final TS and QM files to OpenToonz official repo
+### 6. A pull request to OpenToonz official repo for translation (final TS and QM files)
 flowing github workflow
 
 ---
