@@ -50,3 +50,6 @@ flowing github workflow
 请查看 Glossary.txt
 
 
+## Resources
+- Microsoft 术语集  https://www.microsoft.com/zh-cn/language/Terminology
+- Microsoft 简体中文本地化规范 https://www.microsoft.com/zh-cn/language/StyleGuides
