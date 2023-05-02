@@ -40,6 +40,9 @@ flowing github workflow
 ### 标点符号的使用
 - 直接暴露在界面的短语使用西文标点符号
 - 提示语，警告报错等对话性完整语句用中文标点符号
+- 省略号，在UI界面，非提示语句的情况下，使用西文的省略号
+    - 西文的 ellipsis 不是3个句点(...)构成，而是一体(…)，位置居下。此处上游也没有规范使用，但中文翻译做了纠正。
+    - 中文的省略好是6个点，位置居中的
 
 ## 常见词汇
 
@@ -51,5 +54,5 @@ flowing github workflow
 
 
 ## Resources
-- Microsoft 术语集  https://www.microsoft.com/zh-cn/language/Terminology
+- Microsoft 简体中文本地化术语  https://www.microsoft.com/zh-cn/language/Terminology
 - Microsoft 简体中文本地化规范 https://www.microsoft.com/zh-cn/language/StyleGuides

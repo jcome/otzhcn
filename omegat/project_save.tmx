@@ -394,8 +394,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;About OpenToonz...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>关于 OpenToonz(&amp;A)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>关于 OpenToonz(&amp;A)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,8 +418,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Add Frames...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>添加帧(&amp;A)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>添加帧(&amp;A)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,8 +434,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Antialias...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>抗锯齿(&amp;A)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>抗锯齿(&amp;A)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,16 +458,16 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Apply Match Lines...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>应用适配线(&amp;A)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>应用适配线(&amp;A)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Autocenter...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>自动定位中心(&amp;A)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>自动定位中心(&amp;A)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,8 +498,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Binarize...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>二值化(&amp;B)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>二值化(&amp;B)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,8 +530,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Brightness and Contrast...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>亮度和对比度(&amp;B)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>亮度和对比度(&amp;B)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,8 +562,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Camera Capture...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>摄影机拍摄(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>摄影机拍摄(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,8 +578,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Camera Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>摄影机设置(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>摄影机设置(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,8 +594,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Canvas Size...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>画布尺寸(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>画布尺寸(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,8 +626,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Cleanup Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>清稿设置(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>清稿设置(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,8 +698,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Color Fade...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>颜色淡化(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>颜色淡化(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,8 +730,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Community Forum...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>社区论坛(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>社区论坛(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,8 +746,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Configure Shortcuts...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>配置快捷键(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>配置快捷键(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,16 +762,16 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Convert File...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转换文件(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>转换文件(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Convert TZP Files In Folder...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230501T012823Z" creationid="yuchen" creationdate="20230501T012823Z">
-        <seg>在文件夹中转换 TZP(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z" creationid="yuchen" creationdate="20230501T012823Z">
+        <seg>在文件夹中转换 TZP(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,8 +802,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Custom Panel Editor...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230501T013625Z" creationid="yuchen" creationdate="20230501T013625Z">
-        <seg>定制面板编辑器(&amp;C)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z" creationid="yuchen" creationdate="20230501T013625Z">
+        <seg>定制面板编辑器(&amp;C)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,8 +842,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Define Scanner...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>指定扫描仪(&amp;D)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>指定扫描仪(&amp;D)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,8 +866,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Delete Lines...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>删除线(&amp;D)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>删除线(&amp;D)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,8 +986,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Export Level...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>导出层级(&amp;E)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>导出层级(&amp;E)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,8 +1186,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Import Toonz Lip Sync File...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>导入 Toonz 口型同步文件(&amp;I)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>导入 Toonz 口型同步文件(&amp;I)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,8 +1210,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Info...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>信息(&amp;I)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>信息(&amp;I)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,8 +1306,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Level Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>层级设置(&amp;L)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>层级设置(&amp;L)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,40 +1330,40 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Load As Sub-xsheet...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>加载为子摄影表(&amp;L)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>加载为子摄影表(&amp;L)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Load Color Model...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>加载色彩模型(&amp;L)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>加载色彩模型(&amp;L)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Load Folder...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>加载文件夹(&amp;L)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>加载文件夹(&amp;L)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Load Level...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>加载层级(&amp;L)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>加载层级(&amp;L)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Load Motion Path...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>加载运动路径(&amp;L)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>加载运动路径(&amp;L)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,8 +1378,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Load Scene...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>加载场景(&amp;L)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>加载场景(&amp;L)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,8 +1458,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Merge Tlv Levels...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>合并 TLV 层级(&amp;M)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>合并 TLV 层级(&amp;M)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,16 +1530,16 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;New FX...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>新建特效(&amp;N)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>新建特效(&amp;N)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;New Level...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>新建层级(&amp;N)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>新建层级(&amp;N)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,8 +1578,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;New Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>新建项目(&amp;N)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>新建项目(&amp;N)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,8 +1634,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Online Manual...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>在线手册(&amp;O)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>在线手册(&amp;O)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,8 +1698,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Output Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>输出设置(&amp;O)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>输出设置(&amp;O)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,8 +1842,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>首选项(&amp;P)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>首选项(&amp;P)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,8 +1874,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Preview Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>预览设置(&amp;P)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>预览设置(&amp;P)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,8 +1890,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Print Current Frame...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打印当前帧(&amp;P)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>打印当前帧(&amp;P)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,8 +1906,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Project Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>项目设置(&amp;P)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>项目设置(&amp;P)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,8 +2010,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Renumber...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>重新编号(&amp;R)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>重新编号(&amp;R)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,32 +2026,32 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Repeat...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>重复(&amp;R)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>重复(&amp;R)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Replace Level...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>替换层级(&amp;R)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>替换层级(&amp;R)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Replace Parent Directory...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>替换父目录(&amp;R)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>替换父目录(&amp;R)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Report a Bug...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>上报 Bug(&amp;R)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>上报 Bug(&amp;R)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,8 +2186,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Save As Preset...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>另存为预设(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>另存为预设(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,16 +2218,16 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Save Level As...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>另存层级(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>另存层级(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Save Motion Path...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>保存运动路径(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>保存运动路径(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,8 +2250,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Save Palette As...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>另存调色板(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>另存调色板(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,16 +2274,16 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Save Scene As...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>另存场景(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>另存场景(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&amp;Save Sub-Xsheet As...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>另存子摄影表(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>另存子摄影表(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,8 +2314,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Scan Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>扫描设置(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>扫描设置(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,8 +2330,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Scene Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>场景设置(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>场景设置(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,8 +2426,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Startup Popup...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>启动窗口(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>启动窗口(&amp;S)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,8 +2554,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;Time Stretch...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>时间伸缩(&amp;T)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>时间伸缩(&amp;T)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,8 +2666,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;View...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>查看(&amp;V)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>查看(&amp;V)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,8 +2698,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>&amp;What's New...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>更新(&amp;W)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>更新(&amp;W)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,16 +3018,16 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230430T100849Z" creationid="yuchen" creationdate="20230430T100849Z">
-        <seg>...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z" creationid="yuchen" creationdate="20230430T100849Z">
+        <seg>…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>... and %1 more items</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>...以及 %1 项目</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>…以及 %1 项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,8 +3762,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>Aborting render...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>中断渲染...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>中断渲染…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4114,8 +4114,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>Adding %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在添加 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在添加 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,8 +4130,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>Adding hook file to repository...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在添加钩子文件到仓库...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在添加钩子文件到仓库…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,8 +4194,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>Adjust Levels...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>调整色阶...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>调整色阶…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4210,8 +4210,8 @@ Assign to '%3'?</seg>
       <tuv lang="EN-US">
         <seg>Adjust Thickness...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>调整粗细...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>调整粗细…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5196,8 +5196,8 @@ Nearest format will be internally used.</seg>
       <tuv lang="EN-US">
         <seg>Auto Input Cell Number...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>自动输入帧格编号...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>自动输入帧格编号…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5988,8 +5988,8 @@ Nearest format will be internally used.</seg>
       <tuv lang="EN-US">
         <seg>Building Schematic...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在创建示意图...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在创建示意图…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7042,8 +7042,8 @@ Unchecked: Vectors are saved as SVG</seg>
       <tuv lang="EN-US">
         <seg>Choose File...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>选择文件...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>选择文件…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7122,8 +7122,8 @@ Unchecked: Vectors are saved as SVG</seg>
       <tuv lang="EN-US">
         <seg>Cleaning up %1...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在清理 %1 ...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在清理 %1 …</seg>
       </tuv>
     </tu>
     <tu>
@@ -7712,8 +7712,8 @@ Hold F2 Key on the Viewer to Show This Frame Only</seg>
       <tuv lang="EN-US">
         <seg>Collecting assets...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在收集素材...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在收集素材…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7946,8 +7946,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Committing %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在提交 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在提交 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8322,8 +8322,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Convert to Vectors...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转换为矢量...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>转换为矢量…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8338,8 +8338,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Convert...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>转换...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>转换…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8370,8 +8370,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Converting %1 images to tlv format...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>%1 个图像正在转换为 TLV 格式...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>%1 个图像正在转换为 TLV 格式…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9754,8 +9754,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Deleting %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在删除 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在删除 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10698,8 +10698,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Edit Additional Style Sheet..</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>编辑附加样式表单...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>编辑附加样式表单…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10730,8 +10730,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Edit Clapperboard...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>编辑场记板...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>编辑场记板…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10754,8 +10754,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Edit Frame Range...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>编辑帧范围...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>编辑帧范围…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10898,8 +10898,8 @@ when the "Linear Color Space" option is enabled.</seg>
       <tuv lang="EN-US">
         <seg>Editing %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在编辑 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在编辑 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11604,8 +11604,8 @@ but a random crash might occur, use at your own risk.</seg>
       <tuv lang="EN-US">
         <seg>Export Scene...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>导出场景...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>导出场景…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11644,8 +11644,8 @@ but a random crash might occur, use at your own risk.</seg>
       <tuv lang="EN-US">
         <seg>Exporting ...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在导出...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在导出…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11660,8 +11660,8 @@ but a random crash might occur, use at your own risk.</seg>
       <tuv lang="EN-US">
         <seg>Exporting...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230501T011359Z" creationid="yuchen" creationdate="20230501T011359Z">
-        <seg>正在导出...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z" creationid="yuchen" creationdate="20230501T011359Z">
+        <seg>正在导出…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13688,8 +13688,8 @@ Gaps</seg>
       <tuv lang="EN-US">
         <seg>Get Revision...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>获取修订...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>获取修订…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13712,64 +13712,64 @@ Gaps</seg>
       <tuv lang="EN-US">
         <seg>Getting %1 items to revision %2...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取 %1 个项目到修订 %2...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取 %1 个项目到修订 %2…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Getting %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Getting %1 to revision %2...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取 %1 到修订 %2...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取 %1 到修订 %2…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Getting %1...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取 %1...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取 %1…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Getting file history...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取文件历史...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取文件历史…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Getting frame range edit information...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取帧范围的编辑信息...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取帧范围的编辑信息…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Getting repository status...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取仓库状态...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取仓库状态…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Getting the status for %1...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在获取 %1 的状态...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在获取 %1 的状态…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14176,8 +14176,8 @@ Gaps</seg>
       <tuv lang="EN-US">
         <seg>Hex Color Names...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>16进制颜色名...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>16进制颜色名…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14630,8 +14630,8 @@ contain the dpi information, then the current camera dpi will be used.</seg>
       <tuv lang="EN-US">
         <seg>Importing "%1"...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在导入“%1”...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在导入“%1”…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14646,8 +14646,8 @@ contain the dpi information, then the current camera dpi will be used.</seg>
       <tuv lang="EN-US">
         <seg>Importing scenes...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在导入场景...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在导入场景…</seg>
       </tuv>
     </tu>
     <tu>
@@ -16840,8 +16840,8 @@ Halftone</seg>
       <tuv lang="EN-US">
         <seg>Load from file...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>从文件加载...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>从文件加载…</seg>
       </tuv>
     </tu>
     <tu>
@@ -16880,16 +16880,16 @@ Halftone</seg>
       <tuv lang="EN-US">
         <seg>Loading "%1"...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在加载“%1”...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在加载“%1”…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Loading Raster Images To Cache...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230501T020627Z" creationid="yuchen" creationdate="20230501T020627Z">
-        <seg>加载光栅图像到缓存...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z" creationid="yuchen" creationdate="20230501T020627Z">
+        <seg>加载光栅图像到缓存…</seg>
       </tuv>
     </tu>
     <tu>
@@ -17080,8 +17080,8 @@ Halftone</seg>
       <tuv lang="EN-US">
         <seg>Locking file...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在锁定文件...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在锁定文件…</seg>
       </tuv>
     </tu>
     <tu>
@@ -17564,16 +17564,16 @@ in non alpha-enabled image format.</seg>
       <tuv lang="EN-US">
         <seg>Merging Tlv Levels...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在合并 TLV 层级...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在合并 TLV 层级…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Mesh Creation in progress...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在创建网格...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在创建网格…</seg>
       </tuv>
     </tu>
     <tu>
@@ -18436,8 +18436,8 @@ in non alpha-enabled image format.</seg>
       <tuv lang="EN-US">
         <seg>New Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>新建项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>新建项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -19445,8 +19445,8 @@ for Short Play:</seg>
       <tuv lang="EN-US">
         <seg>Open Another Scene...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打开其它场景...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>打开其它场景…</seg>
       </tuv>
     </tu>
     <tu>
@@ -19493,16 +19493,16 @@ for Short Play:</seg>
       <tuv lang="EN-US">
         <seg>Open Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230501T024421Z" creationid="yuchen" creationdate="20230501T024421Z">
-        <seg>打开项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z" creationid="yuchen" creationdate="20230501T024421Z">
+        <seg>打开项目…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Open Readme.txt for Camera calibration...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打开摄影机校准说明(Readme.txt)...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>打开摄影机校准说明(Readme.txt)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -19517,8 +19517,8 @@ for Short Play:</seg>
       <tuv lang="EN-US">
         <seg>Open Script Console...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>打开脚本控制台...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>打开脚本控制台…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21448,8 +21448,8 @@ the existing level and create a new one when running the cleanup process.</seg>
       <tuv lang="EN-US">
         <seg>Processing...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在处理...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在处理…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21560,8 +21560,8 @@ the existing level and create a new one when running the cleanup process.</seg>
       <tuv lang="EN-US">
         <seg>Purging files...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在清除文件...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在清除文件…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21608,24 +21608,24 @@ the existing level and create a new one when running the cleanup process.</seg>
       <tuv lang="EN-US">
         <seg>Put...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>放置...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>放置…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Putting %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在放置 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在放置 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Putting changes...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在放置更改...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在放置更改…</seg>
       </tuv>
     </tu>
     <tu>
@@ -22050,8 +22050,8 @@ Make sure there's XSheet or Timeline in the room.</seg>
       <tuv lang="EN-US">
         <seg>Reframe with Empty Inbetweens...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>添加空白过渡帧重排帧...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>添加空白过渡帧重排帧…</seg>
       </tuv>
     </tu>
     <tu>
@@ -22090,8 +22090,8 @@ Make sure there's XSheet or Timeline in the room.</seg>
       <tuv lang="EN-US">
         <seg>Refreshing...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在刷新...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在刷新…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23070,16 +23070,16 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Reverting %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在复原 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在复原 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Reverting 1 item...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在复原 1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在复原 1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23094,8 +23094,8 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Revision History...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>修订历史...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>修订历史…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23390,8 +23390,8 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Run Script...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>运行脚本...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>运行脚本…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23942,8 +23942,8 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Saving previewed frames....</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在保存预览过的帧...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在保存预览过的帧…</seg>
       </tuv>
     </tu>
     <tu>
@@ -24654,16 +24654,16 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Separate Colors...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>分离颜色...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>分离颜色…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Separate by colors ...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>按颜色分离 ...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>按颜色分离 …</seg>
       </tuv>
     </tu>
     <tu>
@@ -24918,8 +24918,8 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Set needs-lock property...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>设置 needs-lock 属性...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>设置 needs-lock 属性…</seg>
       </tuv>
     </tu>
     <tu>
@@ -24990,8 +24990,8 @@ Divide = 焦点检查</seg>
       <tuv lang="EN-US">
         <seg>Setting the needs-lock property to hook file...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在设置 needs-lock 属性到钩子文件...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在设置 needs-lock 属性到钩子文件…</seg>
       </tuv>
     </tu>
     <tu>
@@ -26058,8 +26058,8 @@ pick up all frames in the selected level.</seg>
       <tuv lang="EN-US">
         <seg>Starting...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230501T011420Z" creationid="yuchen" creationdate="20230501T011420Z">
-        <seg>开始...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z" creationid="yuchen" creationdate="20230501T011420Z">
+        <seg>开始…</seg>
       </tuv>
     </tu>
     <tu>
@@ -27108,8 +27108,8 @@ pick up all frames in the selected level.</seg>
       <tuv lang="EN-US">
         <seg>Temporary Lock file...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>临时锁定文件...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>临时锁定文件…</seg>
       </tuv>
     </tu>
     <tu>
@@ -27296,8 +27296,8 @@ Please create this folder before using the render farm.</seg>
 
 Do you want to save your changes?</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>当前层级的清稿设置已经被修改...
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>当前层级的清稿设置已经被修改…
 
 要保存更改吗？</seg>
       </tuv>
@@ -29024,8 +29024,8 @@ if both are possible on coding file path.</seg>
       <tuv lang="EN-US">
         <seg>Tracking...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>追踪...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>追踪…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29624,8 +29624,8 @@ if both are possible on coding file path.</seg>
       <tuv lang="EN-US">
         <seg>Unlocking %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在解锁 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在解锁 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -29760,40 +29760,40 @@ if both are possible on coding file path.</seg>
       <tuv lang="EN-US">
         <seg>Updating %1 items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在更新 %1 个项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在更新 %1 个项目…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Updating file...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在更新文件...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在更新文件…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Updating frame range edit information...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在更新帧范围的编辑信息...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在更新帧范围的编辑信息…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Updating items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在更新项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在更新项目…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Updating to their items...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>正在更新到它们的项目...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>正在更新到它们的项目…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30337,8 +30337,8 @@ if both are possible on coding file path.</seg>
       <tuv lang="EN-US">
         <seg>Video Capture Filter Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>视频拍摄滤镜设置...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>视频拍摄滤镜设置…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30617,8 +30617,8 @@ if both are possible on coding file path.</seg>
       <tuv lang="EN-US">
         <seg>Webcam Settings...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>摄像头设置...</seg>
+      <tuv lang="ZH-CN" changeid="yuchen" changedate="20230502T034927Z">
+        <seg>摄像头设置…</seg>
       </tuv>
     </tu>
     <tu>
