@@ -1,9 +1,16 @@
 level	层级	此名词类似于常见图像图像软件的 layer，但不完全相等，故而译作「层级」以区别
+Mesh Level	网格层级
+Raster Leve	光栅层级
+Toonz Level	Toonz 层级
+Vector Level	矢量层级
 paint	上色
 palette	调色板
-ink	勾画	这个是只在草图基础上勾画最终的线稿
-column	列	特殊属于，大概类似其他软件的 layer 图层
+ink	墨线	在草图基础上勾画最终的线稿
+inking	勾墨线	在草图基础上勾画最终的线稿
+column	列	特殊属性，大概类似其他软件的图层（layer）
 xsheet	摄影表
 plastic deformed level	塑性变形层级
 guide	参考线
-Cells	帧格	用于存放帧的单元格
+cell	帧格	用于存放帧的单元格
+
+match line	适配线	TODO
