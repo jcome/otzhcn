@@ -1,0 +1,516 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_CN\n"
+"X-Source-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../image/ffmpeg/tiio_apng.cpp:225
+msgctxt "APngWriterProperties|"
+msgid "Scale"
+msgstr "缩放"
+
+#: ../../image/ffmpeg/tiio_apng.cpp:226
+msgctxt "APngWriterProperties|"
+msgid "Looping"
+msgstr "循环"
+
+#: ../../image/ffmpeg/tiio_apng.cpp:227
+msgctxt "APngWriterProperties|"
+msgid "Write as .png"
+msgstr "写成 .png"
+
+#: ../../image/avi/tiio_avi.cpp:1182
+msgctxt "AviWriterProperties|"
+msgid "Codec"
+msgstr "编码器"
+
+#: ../../image/avi/tiio_avi.cpp:1183
+msgctxt "AviWriterProperties|"
+msgid "Uncompressed"
+msgstr "未压缩"
+
+#: ../../image/exr/tiio_exr.cpp:290
+msgctxt "ExrWriterProperties|"
+msgid "Bits Per Pixel"
+msgstr "像素位数"
+
+#: ../../image/exr/tiio_exr.cpp:292
+msgctxt "ExrWriterProperties|"
+msgid "48(RGB Half Float)"
+msgstr "48(RGB 半浮点)"
+
+#: ../../image/exr/tiio_exr.cpp:293
+msgctxt "ExrWriterProperties|"
+msgid "64(RGBA Half Float)"
+msgstr "64(RGBA 半浮点)"
+
+#: ../../image/exr/tiio_exr.cpp:294
+msgctxt "ExrWriterProperties|"
+msgid "96(RGB Float)"
+msgstr "96(RGB 浮点)"
+
+#: ../../image/exr/tiio_exr.cpp:295
+msgctxt "ExrWriterProperties|"
+msgid "128(RGBA Float)"
+msgstr "128(RGBA 浮点)"
+
+#: ../../image/exr/tiio_exr.cpp:299
+msgctxt "ExrWriterProperties|"
+msgid "Compression Type"
+msgstr "压缩方式"
+
+#: ../../image/exr/tiio_exr.cpp:301
+msgctxt "ExrWriterProperties|"
+msgid "No compression"
+msgstr "不压缩"
+
+#: ../../image/exr/tiio_exr.cpp:304
+msgctxt "ExrWriterProperties|"
+msgid "Run Length Encoding (RLE)"
+msgstr "行程编码(RLE)"
+
+#: ../../image/exr/tiio_exr.cpp:307
+msgctxt "ExrWriterProperties|"
+msgid "ZIP compression per Scanline (ZIPS)"
+msgstr "每个扫描线的 ZIP 压缩(ZIPS)"
+
+#: ../../image/exr/tiio_exr.cpp:310
+msgctxt "ExrWriterProperties|"
+msgid "ZIP compression per scanline band (ZIP)"
+msgstr "每个扫描线波段的 ZIP 压缩(ZIP)"
+
+#: ../../image/exr/tiio_exr.cpp:313
+msgctxt "ExrWriterProperties|"
+msgid "PIZ-based wavelet compression (PIZ)"
+msgstr "基于 PIZ 的小波压缩(PIZ)"
+
+#: ../../image/exr/tiio_exr.cpp:315
+msgctxt "ExrWriterProperties|"
+msgid "Storage Type"
+msgstr "存储类型"
+
+#: ../../image/exr/tiio_exr.cpp:316
+msgctxt "ExrWriterProperties|"
+msgid "Scan-line based"
+msgstr "基于扫描线"
+
+#: ../../image/exr/tiio_exr.cpp:317
+msgctxt "ExrWriterProperties|"
+msgid "Tile based"
+msgstr "基于块"
+
+#: ../../image/exr/tiio_exr.cpp:319
+msgctxt "ExrWriterProperties|"
+msgid "Color Space Gamma"
+msgstr "颜色空间伽马"
+
+#: ../../image/ffmpeg/tiio_ff_mov.cpp:234
+msgctxt "FFMovWriterProperties|"
+msgid "Quality"
+msgstr "质量"
+
+#: ../../image/ffmpeg/tiio_ff_mov.cpp:235
+msgctxt "FFMovWriterProperties|"
+msgid "Scale"
+msgstr "缩放"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:310
+msgctxt "GifWriterProperties|"
+msgid "Global Palette"
+msgstr "全局调色板"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:311
+msgctxt "GifWriterProperties|"
+msgid "Global Palette + Sierra Dither"
+msgstr "全局调色板 + Sierra抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:312
+msgctxt "GifWriterProperties|"
+msgid "Global Palette + Bayer2 Dither"
+msgstr "全局调色版 + 拜尔2抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:313
+msgctxt "GifWriterProperties|"
+msgid "Global Palette + Bayer1 Dither"
+msgstr "全局调色版 + 拜尔1抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:314
+msgctxt "GifWriterProperties|"
+msgid "Diff Palette"
+msgstr "差异调色板"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:315
+msgctxt "GifWriterProperties|"
+msgid "Diff Palette + Sierra Dither"
+msgstr "差异调色板 + Sierra抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:316
+msgctxt "GifWriterProperties|"
+msgid "Diff Palette + Bayer2 Dither"
+msgstr "差异调色板 + 拜尔1抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:317
+msgctxt "GifWriterProperties|"
+msgid "Diff Palette + Bayer1 Dither"
+msgstr "差异调色板 + 拜尔1抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:318
+msgctxt "GifWriterProperties|"
+msgid "New Pal Per Frame"
+msgstr "新建每帧调色板"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:319
+msgctxt "GifWriterProperties|"
+msgid "New Pal Per Frame + Sierra Dither"
+msgstr "新建每帧调色板 + Sierra抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:320
+msgctxt "GifWriterProperties|"
+msgid "New Pal Per Frame + Bayer2 Dither"
+msgstr "新建每帧调色板 + 拜尔2抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:321
+msgctxt "GifWriterProperties|"
+msgid "New Pal Per Frame + Bayer1 Dither"
+msgstr "新建每帧调色板 + 拜尔1抖动"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:322
+msgctxt "GifWriterProperties|"
+msgid "Opaque, Dither, 256 Colors Only"
+msgstr "不透明，抖动，仅256色"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:335
+msgctxt "GifWriterProperties|"
+msgid "Scale"
+msgstr "缩放"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:336
+msgctxt "GifWriterProperties|"
+msgid "Looping"
+msgstr "循环"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:337
+msgctxt "GifWriterProperties|"
+msgid "Mode"
+msgstr "模式"
+
+#: ../../image/ffmpeg/tiio_gif.cpp:338
+msgctxt "GifWriterProperties|"
+msgid "Max Colors"
+msgstr "最大色数"
+
+#~ msgctxt "GifWriterProperties|"
+#~ msgid "Generate Palette"
+#~ msgstr "生成调色板"
+
+#: ../../image/ffmpeg/tiio_mp4.cpp:234
+msgctxt "Mp4WriterProperties|"
+msgid "Quality"
+msgstr "质量"
+
+#: ../../image/ffmpeg/tiio_mp4.cpp:235
+msgctxt "Mp4WriterProperties|"
+msgid "Scale"
+msgstr "缩放"
+
+#: ../../image/png/tiio_png.cpp:757
+msgctxt "PngWriterProperties|"
+msgid "Alpha Channel"
+msgstr "透明度通道"
+
+#: ../../image/ffmpeg/tiio_ffmpeg.cpp:172
+#, qt-format
+msgctxt "QObject|"
+msgid "FFmpeg returned error-code: %1"
+msgstr "FFmpeg 返回的错误编码：%1"
+
+#: ../../image/ffmpeg/tiio_ffmpeg.cpp:160
+#: ../../image/ffmpeg/tiio_ffmpeg.cpp:176
+msgctxt "QObject|"
+msgid ""
+"FFmpeg timed out.\n"
+"Please check the file for errors.\n"
+"If the file doesn't play or is incomplete, \n"
+"Please try raising the FFmpeg timeout in Preferences."
+msgstr "FFmpeg 超时\n"
+"请检查该文件是否有错误。\n"
+"如果文件不能播放或不完整，\n"
+"请尝试在首选项中提高 FFmpeg 的超时时间。"
+
+#: ../../image/sgi/filesgi.cpp:1229
+msgctxt "SgiWriterProperties|"
+msgid "Bits Per Pixel"
+msgstr "像素位数"
+
+#: ../../image/sgi/filesgi.cpp:1230
+msgctxt "SgiWriterProperties|"
+msgid "24 bits"
+msgstr "24 位"
+
+#: ../../image/sgi/filesgi.cpp:1231
+msgctxt "SgiWriterProperties|"
+msgid "32 bits"
+msgstr "32 位"
+
+#: ../../image/sgi/filesgi.cpp:1232
+msgctxt "SgiWriterProperties|"
+msgid "48 bits"
+msgstr "48 位"
+
+#: ../../image/sgi/filesgi.cpp:1233
+msgctxt "SgiWriterProperties|"
+msgid "64 bits"
+msgstr "64 位"
+
+#: ../../image/sgi/filesgi.cpp:1234
+msgctxt "SgiWriterProperties|"
+msgid "8 bits (Greyscale)"
+msgstr "8 位(灰阶)"
+
+#: ../../image/sgi/filesgi.cpp:1235
+msgctxt "SgiWriterProperties|"
+msgid "Endianess"
+msgstr "字节序"
+
+# 高地址位在整个地址位的前端低位优先
+#: ../../image/sgi/filesgi.cpp:1236
+msgctxt "SgiWriterProperties|"
+msgid "Big Endian"
+msgstr "高位优先"
+
+# 代表低地址位在整个地址位的前端
+#: ../../image/sgi/filesgi.cpp:1237
+msgctxt "SgiWriterProperties|"
+msgid "Little Endian"
+msgstr "低位优先"
+
+#: ../../image/sgi/filesgi.cpp:1238
+msgctxt "SgiWriterProperties|"
+msgid "RLE-Compressed"
+msgstr "RLE 压缩"
+
+#: ../../image/sprite/tiio_sprite.cpp:313
+msgctxt "SpriteWriterProperties|"
+msgid "Top Padding"
+msgstr "上边距"
+
+#: ../../image/sprite/tiio_sprite.cpp:314
+msgctxt "SpriteWriterProperties|"
+msgid "Bottom Padding"
+msgstr "下边距"
+
+#: ../../image/sprite/tiio_sprite.cpp:315
+msgctxt "SpriteWriterProperties|"
+msgid "Left Padding"
+msgstr "左边距"
+
+#: ../../image/sprite/tiio_sprite.cpp:316
+msgctxt "SpriteWriterProperties|"
+msgid "Right Padding"
+msgstr "右边距"
+
+#: ../../image/sprite/tiio_sprite.cpp:317
+msgctxt "SpriteWriterProperties|"
+msgid "Scale"
+msgstr "缩放"
+
+#: ../../image/sprite/tiio_sprite.cpp:318
+msgctxt "SpriteWriterProperties|"
+msgid "Format"
+msgstr "格式"
+
+#: ../../image/sprite/tiio_sprite.cpp:319
+msgctxt "SpriteWriterProperties|"
+msgid "Grid"
+msgstr "格子"
+
+#: ../../image/sprite/tiio_sprite.cpp:320
+msgctxt "SpriteWriterProperties|"
+msgid "Vertical"
+msgstr "垂直"
+
+#: ../../image/sprite/tiio_sprite.cpp:321
+msgctxt "SpriteWriterProperties|"
+msgid "Horizontal"
+msgstr "水平"
+
+#: ../../image/sprite/tiio_sprite.cpp:322
+msgctxt "SpriteWriterProperties|"
+msgid "Individual"
+msgstr "独立"
+
+#: ../../image/sprite/tiio_sprite.cpp:323
+msgctxt "SpriteWriterProperties|"
+msgid "Trim Empty Space"
+msgstr "剪切空白"
+
+#: ../../image/svg/tiio_svg.cpp:1969
+msgctxt "SvgWriterProperties|"
+msgid "Stroke Mode"
+msgstr "描边模式"
+
+#: ../../image/svg/tiio_svg.cpp:1970
+msgctxt "SvgWriterProperties|"
+msgid "Outline Quality"
+msgstr "轮廓质量"
+
+#: ../../image/svg/tiio_svg.cpp:1971
+msgctxt "SvgWriterProperties|"
+msgid "Centerline"
+msgstr "中心线"
+
+#: ../../image/svg/tiio_svg.cpp:1972
+msgctxt "SvgWriterProperties|"
+msgid "Outline"
+msgstr "轮廓"
+
+#: ../../image/svg/tiio_svg.cpp:1973
+msgctxt "SvgWriterProperties|"
+msgid "High"
+msgstr "高"
+
+#: ../../image/svg/tiio_svg.cpp:1974
+msgctxt "SvgWriterProperties|"
+msgid "Medium"
+msgstr "中"
+
+#: ../../image/svg/tiio_svg.cpp:1975
+msgctxt "SvgWriterProperties|"
+msgid "Low"
+msgstr "低"
+
+#: ../../image/tga/tiio_tga.cpp:523
+msgctxt "TgaWriterProperties|"
+msgid "Bits Per Pixel"
+msgstr "像素位数"
+
+#: ../../image/tga/tiio_tga.cpp:524
+msgctxt "TgaWriterProperties|"
+msgid "16 bits"
+msgstr "16 位"
+
+#: ../../image/tga/tiio_tga.cpp:525
+msgctxt "TgaWriterProperties|"
+msgid "24 bits"
+msgstr "24 位"
+
+#: ../../image/tga/tiio_tga.cpp:526
+msgctxt "TgaWriterProperties|"
+msgid "32 bits"
+msgstr "32 位"
+
+#: ../../image/tga/tiio_tga.cpp:527
+msgctxt "TgaWriterProperties|"
+msgid "Compression"
+msgstr "压缩"
+
+#: ../../image/tif/tiio_tif.cpp:730
+msgctxt "TifWriterProperties|"
+msgid "Byte Ordering"
+msgstr "字节顺序"
+
+#: ../../image/tif/tiio_tif.cpp:731
+msgctxt "TifWriterProperties|"
+msgid "Compression Type"
+msgstr "压缩方式"
+
+#: ../../image/tif/tiio_tif.cpp:732
+msgctxt "TifWriterProperties|"
+msgid "Bits Per Pixel"
+msgstr "像素位数"
+
+#: ../../image/tif/tiio_tif.cpp:733
+msgctxt "TifWriterProperties|"
+msgid "24(RGB)"
+msgstr "24(RGB)"
+
+#: ../../image/tif/tiio_tif.cpp:734
+msgctxt "TifWriterProperties|"
+msgid "48(RGB)"
+msgstr "48(RGB)"
+
+#: ../../image/tif/tiio_tif.cpp:735
+msgctxt "TifWriterProperties|"
+msgid " 1(BW)"
+msgstr " 1(黑白)"
+
+#: ../../image/tif/tiio_tif.cpp:736
+msgctxt "TifWriterProperties|"
+msgid " 8(GREYTONES)"
+msgstr " 8(灰阶)"
+
+#~ msgctxt "TifWriterProperties|"
+#~ msgid "32(RGBM)"
+#~ msgstr "32(RGBM)"
+
+#~ msgctxt "TifWriterProperties|"
+#~ msgid "64(RGBM)"
+#~ msgstr "64(RGBM)"
+
+#: ../../image/tif/tiio_tif.cpp:737
+msgctxt "TifWriterProperties|"
+msgid "32(RGBA)"
+msgstr "32(RGBA)"
+
+#: ../../image/tif/tiio_tif.cpp:738
+msgctxt "TifWriterProperties|"
+msgid "64(RGBA)"
+msgstr "64(RGBA)"
+
+#: ../../image/tif/tiio_tif.cpp:739
+msgctxt "TifWriterProperties|"
+msgid "Orientation"
+msgstr "方向"
+
+#: ../../image/tif/tiio_tif.cpp:740
+msgctxt "TifWriterProperties|"
+msgid "Top Left"
+msgstr "上左"
+
+#: ../../image/tif/tiio_tif.cpp:741
+msgctxt "TifWriterProperties|"
+msgid "Top Right"
+msgstr "上右"
+
+#: ../../image/tif/tiio_tif.cpp:742
+msgctxt "TifWriterProperties|"
+msgid "Bottom Right"
+msgstr "下右"
+
+#: ../../image/tif/tiio_tif.cpp:743
+msgctxt "TifWriterProperties|"
+msgid "Bottom Left"
+msgstr "下左"
+
+#: ../../image/tif/tiio_tif.cpp:744
+msgctxt "TifWriterProperties|"
+msgid "Left Top"
+msgstr "左上"
+
+#: ../../image/tif/tiio_tif.cpp:745
+msgctxt "TifWriterProperties|"
+msgid "Left Bottom"
+msgstr "左下"
+
+#: ../../image/tif/tiio_tif.cpp:746
+msgctxt "TifWriterProperties|"
+msgid "Right Top"
+msgstr "右上"
+
+#: ../../image/tif/tiio_tif.cpp:747
+msgctxt "TifWriterProperties|"
+msgid "Right Bottom"
+msgstr "右下"
+
+#: ../../image/ffmpeg/tiio_webm.cpp:235
+msgctxt "WebmWriterProperties|"
+msgid "Quality"
+msgstr "质量"
+
+#: ../../image/ffmpeg/tiio_webm.cpp:236
+msgctxt "WebmWriterProperties|"
+msgid "Scale"
+msgstr "缩放"

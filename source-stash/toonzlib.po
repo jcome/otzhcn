@@ -1,0 +1,1142 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_CN\n"
+"X-Source-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+#, qt-format
+#~ msgctxt "CenterlineVectorizer|"
+#~ msgid "Can't vectorize a %1 level"
+#~ msgstr "无法矢量化层级 %1"
+
+#~ msgctxt "CenterlineVectorizer|"
+#~ msgid "Can't vectorize a level with no frames"
+#~ msgstr "无法矢量化没有帧的层级"
+
+#, qt-format
+#~ msgctxt "CenterlineVectorizer|"
+#~ msgid "Can't vectorize a %1 image"
+#~ msgstr "无法矢量化图像 %1"
+
+#, qt-format
+#~ msgctxt "CenterlineVectorizer|"
+#~ msgid "Bad argument (%1): should be an Image or a Level"
+#~ msgstr "不正确的参数(%1): 应该是图像或者层级"
+
+#, qt-format
+#~ msgctxt "FilePath|"
+#~ msgid "\"%1\""
+#~ msgstr "\"%1\""
+
+#, qt-format
+#~ msgctxt "FilePath|"
+#~ msgid "can't concatenate an absolute path : %1"
+#~ msgstr "无法连接绝对路径: %1"
+
+#, qt-format
+#~ msgctxt "FilePath|"
+#~ msgid "%1 is not a directory"
+#~ msgstr "%1 不是目录"
+
+#, qt-format
+#~ msgctxt "FilePath|"
+#~ msgid "can't read directory %1"
+#~ msgstr "无法读取目录 %1"
+
+#, qt-format
+#~ msgctxt "Image|"
+#~ msgid "File %1 doesn't exist"
+#~ msgstr "文件 %1 不存在"
+
+#, qt-format
+#~ msgctxt "Image|"
+#~ msgid "Loaded first frame of %1"
+#~ msgstr "%1 的第一帧已经加载"
+
+#~ msgctxt "Image|"
+#~ msgid "Unexpected error while reading image"
+#~ msgstr "读取图像时发生了意想不到的错误"
+
+#~ msgctxt "Image|"
+#~ msgid "Unrecognized file type :"
+#~ msgstr "未识别的文件类型:"
+
+#, qt-format
+#~ msgctxt "Image|"
+#~ msgid "Can't save a %1 image to this file type : %2"
+#~ msgstr "无法将图像 %1 保存为该文件类型: %2"
+
+#~ msgctxt "Image|"
+#~ msgid "Unexpected error while writing image"
+#~ msgstr "写入图像时发生了意想不到的错误"
+
+#, qt-format
+#~ msgctxt "ImageBuilder|"
+#~ msgid "Bad argument (%1): should be 'Raster' or ToonzRaster'"
+#~ msgstr "不正确的参数(%1): 应当是“光栅”或者“Toonz 光栅”"
+
+#, qt-format
+#~ msgctxt "ImageBuilder|"
+#~ msgid "ImageBuilder(%1 image)"
+#~ msgstr "图像生成器(%1 图像)"
+
+#, qt-format
+#~ msgctxt "ImageBuilder|"
+#~ msgid "%1 : %2"
+#~ msgstr "%1 : %2"
+
+#, qt-format
+#~ msgctxt "ImageBuilder|"
+#~ msgid "Bad argument (%1): should be a Transformation"
+#~ msgstr "不正确的参数(%1): 应当是几何变换"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "%1 frames"
+#~ msgstr "%1 帧"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "Bad argument (%1). It should be FilePath or string"
+#~ msgstr "不正确的参数(%1): 应当是文件路径或者字符串"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "Exception loading level (%1)"
+#~ msgstr "加载层级时的异常(%1)"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "File %1 doesn't exist"
+#~ msgstr "文件 %1 不存在"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "File %1 is unsupported"
+#~ msgstr "文件 %1 是不支持的"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "Exception reading %1"
+#~ msgstr "读取 %1 时的异常"
+
+#~ msgctxt "Level|"
+#~ msgid "Can't save an empty level"
+#~ msgstr "无法保存空层级"
+
+#~ msgctxt "Level|"
+#~ msgid "Unrecognized file type :"
+#~ msgstr "未识别的文件类型:"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "Can't save a %1 level to this file type : %2"
+#~ msgstr "不能保存层级 %1 为此文件类型：%2"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "Exception writing %1"
+#~ msgstr "写入 %1 时的异常"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "frame index (%1) must be a number"
+#~ msgstr "帧索引(%1)必须是个数字"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "frame index (%1) is out of range (0-%2)"
+#~ msgstr "帧索引(%1)超出范围(0-%2)"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "second argument (%1) is not an image"
+#~ msgstr "第二个参数(%1)不是图像"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "can not insert a %1 image into a level"
+#~ msgstr "无法插入图像 %1 到层级中"
+
+#, qt-format
+#~ msgctxt "Level|"
+#~ msgid "can not insert a %1 image to a %2 level"
+#~ msgstr "无法插入图像 %1 到层级 %2 中"
+
+#, qt-format
+#~ msgctxt "OutlineVectorizer|"
+#~ msgid "Can't vectorize a %1 level"
+#~ msgstr "无法矢量化层级 %1"
+
+#~ msgctxt "OutlineVectorizer|"
+#~ msgid "Can't vectorize a level with no frames"
+#~ msgstr "无法矢量化没有帧的层级"
+
+#, qt-format
+#~ msgctxt "OutlineVectorizer|"
+#~ msgid "Can't vectorize a %1 image"
+#~ msgstr "无法矢量化图像 %1"
+
+#, qt-format
+#~ msgctxt "OutlineVectorizer|"
+#~ msgid "Bad argument (%1): should be an Image or a Level"
+#~ msgstr "不正确的参数(%1): 应该是图像或者层级"
+
+#~ msgctxt "OutlineVectorizer|"
+#~ msgid "Invalid color : "
+#~ msgstr "无效的颜色: "
+
+msgctxt "Preferences|"
+msgid "Retas Level Format"
+msgstr "RETAS 层级格式"
+
+msgctxt "Preferences|"
+msgid "Adobe Photoshop"
+msgstr ""
+
+msgctxt "Preferences|"
+msgid "PNG"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "No restrictions for uncompressed avi video"
+msgstr "不限制未压缩的 AVI 视频"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "video width must be a multiple of %1"
+msgstr "视频宽度必须是 %1 的倍数"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "video length must be a multiple of %1"
+msgstr "视频长度必须是 %1 的倍数"
+
+msgctxt "QObject|"
+msgid "No restrictions for this codec"
+msgstr "该编码不受限制"
+
+msgctxt "QObject|"
+msgid "Resolution restrictions:"
+msgstr "分辨率限制:"
+
+msgctxt "QObject|"
+msgid ""
+"It is not possible to communicate with the codec.\n"
+" Probably the codec cannot work correctly."
+msgstr ""
+"无法调用编码器。\n"
+"可能该编码器不能正常工作。"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "%1-%2"
+msgstr "%1-%2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "%1"
+msgstr "%1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Expected %1 argument(s) in %2, got %3"
+msgstr "在 %2 中期待 %1 参数，实际有 %3"
+
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"%1 is not a valid color (valid color names are 'red', 'transparent', "
+"'#FF8800', ecc.)"
+msgstr "%1 不是有效的颜色(有效的颜色名是类似“red”、“transparent”和“#FF8800”等等)"
+
+msgctxt "QObject|"
+msgid "Vectorization failed"
+msgstr "矢量化失败"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Argument doesn't look like a file path : %1"
+msgstr "参数不像是文件路径: %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Bad argument (%1): should be an Image (not empty)"
+msgstr "不正确的参数(%1): 必须指定图像(不能为空)"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Argument '%1' does not look like a FrameId"
+msgstr "参数 '%1'不像是帧 ID"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "First argument must be a scene : %1"
+msgstr "第一个参数必须是场景: %1"
+
+msgctxt "QObject|"
+msgid "Can't render empty scene"
+msgstr "不能渲染空场景"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "New Camera  %1"
+msgstr "新摄影机  %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "New Pegbar  %1"
+msgstr "新定位尺  %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Set Active Camera  %1 > %2"
+msgstr "设置启用的摄影机  %1 > %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Remove Spline  %1"
+msgstr "删除样条线  %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "New Motion Path  %1"
+msgstr "新建运动路径  %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Link Motion Path  %1 > %2"
+msgstr "链接运动路径  %1 > %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Remove Object  %1"
+msgstr "删除物体  %1"
+
+msgctxt "QObject|"
+msgid "Remove Column  "
+msgstr "删除列  "
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Load into Current Palette  > %1"
+msgstr "加载到当前调色板  > %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Replace with Current Palette  > %1"
+msgstr "用当前调色板替换  > %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Delete Studio Palette  : %1"
+msgstr "删除工作室调色板  : %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Create Studio Palette  : %1"
+msgstr "创建工作室调色板  : %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Delete Studio Palette Folder  : %1"
+msgstr "删除工作室调色板文件夹  : %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Create Studio Palette Folder  : %1"
+msgstr "创建工作室调色板文件夹  : %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Move Studio Palette Folder  : %1 : %2 > %3"
+msgstr "移动工作室调色板文件夹  : %1 : %2 > %3"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Arrange Styles  in Palette %1"
+msgstr "在调色板 %1 中排列样式"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Create Style#%1  in Palette %2"
+msgstr "在调色板 %2 中创建样式#%1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Add Style  to Palette %1"
+msgstr "添加样式到调色板 %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Add Page %1 to Palette %2"
+msgstr "添加页 %1 到调色板 %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Delete Page %1 from Palette %2"
+msgstr "从调色板 %2 中删除页 %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Load Color Model %1  to Palette %2"
+msgstr "加载色彩模型 %1 到调色板 %2"
+
+msgctxt "QObject|"
+msgid "Move Page"
+msgstr "移动页"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Rename Page  %1 > %2"
+msgstr "重命名页  %1 > %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Rename Style#%1 in Palette%2  : %3 > %4"
+msgstr "重命名调色板 %2 的样式#%1  : %3 > %4"
+
+msgctxt "QObject|"
+msgid "Add Fx  : "
+msgstr "添加特效  : "
+
+msgctxt "QObject|"
+msgid "Insert Fx  : "
+msgstr "插入特效  : "
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Create Linked Fx  : %1"
+msgstr "创建已链接的特效  : %1"
+
+msgctxt "QObject|"
+msgid "Replace Fx  : "
+msgstr "替换特效  : "
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Unlink Fx  : %1 - - %2"
+msgstr "取消特效链接  : %1 - - %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Make Macro Fx  : %1"
+msgstr "制作宏特效  : %1"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Explode Macro Fx  : %1"
+msgstr "展开宏特效  : %1"
+
+msgctxt "QObject|"
+msgid "Create Output Fx"
+msgstr "创建输出特效"
+
+msgctxt "QObject|"
+msgid "Connect to Xsheet  : "
+msgstr "连接到摄影表  : "
+
+msgctxt "QObject|"
+msgid "Disconnect from Xsheet  : "
+msgstr "断开摄影表的连接 : "
+
+msgctxt "QObject|"
+msgid "Delete Link"
+msgstr "删除链接"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Delete Fx Node : %1"
+msgstr "删除特效节点 : %1"
+
+msgctxt "QObject|"
+msgid "Paste Fx  :  "
+msgstr "粘贴特效  :  "
+
+msgctxt "QObject|"
+msgid "Disconnect Fx"
+msgstr "断开特效的连接"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Connect Fx : %1 - %2"
+msgstr "连接特效 : %1 - %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Rename Fx : %1 > %2"
+msgstr "重命名特效 : %1 > %2"
+
+msgctxt "QObject|"
+msgid "Group Fx"
+msgstr "组合特效"
+
+msgctxt "QObject|"
+msgid "Ungroup Fx"
+msgstr "解组特效"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Rename Group  : %1 > %2"
+msgstr "重命名组  : %1 > %2"
+
+msgctxt "QObject|"
+msgid "Set Keyframe"
+msgstr "设置关键帧"
+
+msgctxt "QObject|"
+msgid "Remove Keyframe"
+msgstr "移除关键帧"
+
+msgctxt "QObject|"
+msgid "Cycle"
+msgstr "循环"
+
+msgctxt "QObject|"
+msgid "The autocentering failed on the current drawing."
+msgstr "在当前绘图上的自动定位中心点失败。"
+
+msgctxt "QObject|"
+msgid "Move"
+msgstr "移动"
+
+msgctxt "QObject|"
+msgid "Edit Rotation"
+msgstr "编辑旋转"
+
+msgctxt "QObject|"
+msgid "Move X"
+msgstr "左右移动"
+
+msgctxt "QObject|"
+msgid "Move Y"
+msgstr "上下移动"
+
+msgctxt "QObject|"
+msgid "Move Z"
+msgstr "移动 Z 轴"
+
+msgctxt "QObject|"
+msgid "Edit Stack Order"
+msgstr "编辑堆栈顺序"
+
+msgctxt "QObject|"
+msgid "Edit Scale W"
+msgstr "编辑横向缩放"
+
+msgctxt "QObject|"
+msgid "Edit Scale H"
+msgstr "编辑纵向缩放"
+
+msgctxt "QObject|"
+msgid "Edit Scale"
+msgstr "编辑缩放"
+
+msgctxt "QObject|"
+msgid "Edit PosPath"
+msgstr "编辑位置路径"
+
+msgctxt "QObject|"
+msgid "Edit Shear X"
+msgstr "编辑横向切变"
+
+msgctxt "QObject|"
+msgid "Edit Shear Y"
+msgstr "编辑纵向切变"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "%1  %2  Frame : %3"
+msgstr "%1  %2  帧 : %3"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Set Keyframe   %1 at frame %2"
+msgstr "设置关键帧   %1  在帧 %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Remove Keyframe   %1 at frame %2"
+msgstr "移除关键帧   %1  在帧 %2"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Move Center   %1  Frame %2"
+msgstr "移动中心   %1  帧 %2"
+
+msgctxt "QObject|"
+msgid "color model"
+msgstr "色彩模型"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Set Picked Position of Style#%1 in Palette%2 : %3,%4"
+msgstr "设定已经在调色板%2 : %3,%4中挑选的样式#%1位置"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Update Colors by Using Picked Positions in Palette %1"
+msgstr "使用在调色板%1中已经挑选的位置更新颜色"
+
+msgctxt "QObject|"
+msgid "Can't save"
+msgstr "没法保存"
+
+msgctxt "QObject|"
+msgid "None"
+msgstr "无"
+
+msgctxt "QObject|"
+msgid "Red"
+msgstr "红"
+
+msgctxt "QObject|"
+msgid "Green"
+msgstr "绿"
+
+msgctxt "QObject|"
+msgid "Blue"
+msgstr "蓝"
+
+msgctxt "QObject|"
+msgid "DarkYellow"
+msgstr "暗黄"
+
+msgctxt "QObject|"
+msgid "DarkCyan"
+msgstr "暗青"
+
+msgctxt "QObject|"
+msgid "DarkMagenta"
+msgstr "暗红"
+
+msgctxt "QObject|"
+msgid "Brightness"
+msgstr "亮度"
+
+msgctxt "QObject|"
+msgid "Contrast"
+msgstr "对比度"
+
+msgctxt "QObject|"
+msgid "ColorThres"
+msgstr "彩色阀值"
+
+msgctxt "QObject|"
+msgid "WhiteThres"
+msgstr "白色阀值"
+
+msgctxt "QObject|"
+msgid "HRange"
+msgstr "H范围"
+
+msgctxt "QObject|"
+msgid "Line Width"
+msgstr "线条宽度"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Toggle Autopaint Option  Palette : %1  Style#%2"
+msgstr "启用/停止自动填充选项  调色板: %1  样式#%2"
+
+msgctxt "QObject|"
+msgid "Can't undo rename palette"
+msgstr "不能取消重命名调色板"
+
+msgctxt "QObject|"
+msgid "Can't undo move palette"
+msgstr "不能取消移动调色板"
+
+msgctxt "QObject|"
+msgid "Can't redo rename palette"
+msgstr "不能取消重命名调色板"
+
+msgctxt "QObject|"
+msgid "Can't redo move palette"
+msgstr "不能重做移动调色板"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Rename Studio Palette : %1 > %2"
+msgstr "重命名工作室调色板  %1 > %2"
+
+msgctxt "QObject|"
+msgid "Xsheet"
+msgstr "摄影表"
+
+msgctxt "QObject|"
+msgid "Timeline"
+msgstr "时间轴"
+
+msgctxt "QObject|"
+msgid "Failed to save the following resources:\n"
+msgstr "保存下面的资源失败:\n"
+
+msgctxt "QObject|"
+msgid "Failed to save palette."
+msgstr "保存调色板失败。"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "and %1 more item(s)."
+msgstr "和 %1 更多项目。"
+
+msgctxt "QObject|"
+msgid "Orange"
+msgstr "橙色"
+
+msgctxt "QObject|"
+msgid "Yellow"
+msgstr "黄色"
+
+msgctxt "QObject|"
+msgid "Light Green"
+msgstr "浅绿色"
+
+msgctxt "QObject|"
+msgid "Light Blue"
+msgstr "浅蓝色"
+
+msgctxt "QObject|"
+msgid "Dark Blue"
+msgstr "深蓝色"
+
+msgctxt "QObject|"
+msgid "Purple"
+msgstr "紫色"
+
+msgctxt "QObject|"
+msgid "Pink"
+msgstr "粉色"
+
+msgctxt "QObject|"
+msgid "Dark Pink"
+msgstr "深粉色"
+
+msgctxt "QObject|"
+msgid "White"
+msgstr "白色"
+
+msgctxt "QObject|TextureStyleChooserPage"
+msgid "Custom Texture"
+msgstr ""
+
+#, qt-format
+#~ msgctxt "Rasterizer|"
+#~ msgid "Expected a vector image: %1"
+#~ msgstr "预期的矢量图像: %1"
+
+#, qt-format
+#~ msgctxt "Rasterizer|"
+#~ msgid "Expected a vector level: %1"
+#~ msgstr "预期的矢量层级: %1"
+
+#~ msgctxt "Rasterizer|"
+#~ msgid "Argument must be a vector level or image : "
+#~ msgstr "参数必须是矢量层级或图像: "
+
+#, qt-format
+#~ msgctxt "Rasterizer|"
+#~ msgid "%1 has no palette"
+#~ msgstr "%1 没有调色板"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "File %1 doesn't exist"
+#~ msgstr "文件 %1 不存在"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Exception reading %1"
+#~ msgstr "读取 %1 时的异常"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Exception writing %1"
+#~ msgstr "写入 %1 时的异常"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Bad level type (%1): must be Vector,Raster or ToonzRaster"
+#~ msgstr "不正确的层级类型(%1): 必须是矢量、光栅或者 Toonz 光栅"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Can't add the level: name(%1) is already used"
+#~ msgstr "无法添加层级: 名称(%1)已被使用"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Can't load this kind of file as a level : %1"
+#~ msgstr "无法加载此类文件作为层级: %1"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Could not load level %1"
+#~ msgstr "无法加载层级 %1"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Level is not included in the scene : %1"
+#~ msgstr "层级未包含在此场景: %1"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "%1 : Expected a Level instance or a level name"
+#~ msgstr "%1: 预期的层级矢量或者层级名"
+
+#, qt-format
+#~ msgctxt "Scene|"
+#~ msgid "Level '%1' is not included in the scene"
+#~ msgstr "层级 '%1' 没有在这个场景中"
+
+#, qt-format
+msgctxt "TScriptBinding::CenterlineVectorizer|"
+msgid "Can't vectorize a %1 level"
+msgstr "无法矢量化层级 %1"
+
+msgctxt "TScriptBinding::CenterlineVectorizer|"
+msgid "Can't vectorize a level with no frames"
+msgstr "无法矢量化没有帧的层级"
+
+#, qt-format
+msgctxt "TScriptBinding::CenterlineVectorizer|"
+msgid "Can't vectorize a %1 image"
+msgstr "无法矢量化图像 %1"
+
+#, qt-format
+msgctxt "TScriptBinding::CenterlineVectorizer|"
+msgid "Bad argument (%1): should be an Image or a Level"
+msgstr "不正确的参数(%1): 应当是一个图像或层级"
+
+#, qt-format
+msgctxt "TScriptBinding::FilePath|"
+msgid "\"%1\""
+msgstr "\"%1\""
+
+#, qt-format
+msgctxt "TScriptBinding::FilePath|"
+msgid "can't concatenate an absolute path : %1"
+msgstr "无法连接绝对路径: %1"
+
+#, qt-format
+msgctxt "TScriptBinding::FilePath|"
+msgid "%1 is not a directory"
+msgstr "%1 不是目录"
+
+#, qt-format
+msgctxt "TScriptBinding::FilePath|"
+msgid "can't read directory %1"
+msgstr "无法读取目录 %1"
+
+#, qt-format
+msgctxt "TScriptBinding::Image|"
+msgid "File %1 doesn't exist"
+msgstr "文件 %1 不存在"
+
+#, qt-format
+msgctxt "TScriptBinding::Image|"
+msgid "Loaded first frame of %1"
+msgstr "%1 的第一帧已经加载"
+
+msgctxt "TScriptBinding::Image|"
+msgid "Unexpected error while reading image"
+msgstr "读取图像时发生了意想不到的错误"
+
+msgctxt "TScriptBinding::Image|"
+msgid "Unrecognized file type :"
+msgstr "无法识别的文件类型: "
+
+#, qt-format
+msgctxt "TScriptBinding::Image|"
+msgid "Can't save a %1 image to this file type : %2"
+msgstr "无法将图像 %1 保存为该文件类型: %2"
+
+msgctxt "TScriptBinding::Image|"
+msgid "Unexpected error while writing image"
+msgstr "写入图像时发生了意想不到的错误"
+
+#, qt-format
+msgctxt "TScriptBinding::ImageBuilder|"
+msgid "Bad argument (%1): should be 'Raster' or ToonzRaster'"
+msgstr "不正确的参数(%1): 应当是“光栅”或者“Toonz 光栅”"
+
+#, qt-format
+msgctxt "TScriptBinding::ImageBuilder|"
+msgid "ImageBuilder(%1 image)"
+msgstr "图像生成器(%1 图像)"
+
+#, qt-format
+msgctxt "TScriptBinding::ImageBuilder|"
+msgid "%1 : %2"
+msgstr "%1 : %2"
+
+#, qt-format
+msgctxt "TScriptBinding::ImageBuilder|"
+msgid "Bad argument (%1): should be a Transformation"
+msgstr "不正确的参数(%1): 应当是几何变换"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "%1 frames"
+msgstr "%1 帧"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "Bad argument (%1). It should be FilePath or string"
+msgstr "不正确的参数(%1): 应当是文件路径或者字符串"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "Exception loading level (%1)"
+msgstr "加载层级时的异常(%1)"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "File %1 doesn't exist"
+msgstr "文件 %1 不存在"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "File %1 is unsupported"
+msgstr "文件 %1 是不支持的"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "Exception reading %1"
+msgstr "读取 %1 时的异常"
+
+msgctxt "TScriptBinding::Level|"
+msgid "Can't save an empty level"
+msgstr "无法保存空层级"
+
+msgctxt "TScriptBinding::Level|"
+msgid "Unrecognized file type :"
+msgstr "无法识别的文件类型:"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "Can't save a %1 level to this file type : %2"
+msgstr "不能保存层级 %1 为此文件类型：%2"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "Exception writing %1"
+msgstr "写入 %1 时的异常"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "frame index (%1) must be a number"
+msgstr "帧索引(%1)必须是个数字"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "frame index (%1) is out of range (0-%2)"
+msgstr "帧索引(%1)超出范围(0-%2)"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "second argument (%1) is not an image"
+msgstr "第二个参数(%1)不是图像"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "can not insert a %1 image into a level"
+msgstr "无法插入图像 %1 到层级中"
+
+#, qt-format
+msgctxt "TScriptBinding::Level|"
+msgid "can not insert a %1 image to a %2 level"
+msgstr "无法插入图像 %1 到层级 %2 中"
+
+#, qt-format
+msgctxt "TScriptBinding::OutlineVectorizer|"
+msgid "Can't vectorize a %1 level"
+msgstr "无法矢量化层级 %1"
+
+msgctxt "TScriptBinding::OutlineVectorizer|"
+msgid "Can't vectorize a level with no frames"
+msgstr "无法矢量化没有帧的层级"
+
+#, qt-format
+msgctxt "TScriptBinding::OutlineVectorizer|"
+msgid "Can't vectorize a %1 image"
+msgstr "无法矢量化图像 %1"
+
+#, qt-format
+msgctxt "TScriptBinding::OutlineVectorizer|"
+msgid "Bad argument (%1): should be an Image or a Level"
+msgstr "不正确的参数(%1): 应当是图像或者层级"
+
+msgctxt "TScriptBinding::OutlineVectorizer|"
+msgid "Invalid color : "
+msgstr "无效的颜色: "
+
+#, qt-format
+msgctxt "TScriptBinding::Rasterizer|"
+msgid "Expected a vector image: %1"
+msgstr "预期的矢量图像: %1"
+
+#, qt-format
+msgctxt "TScriptBinding::Rasterizer|"
+msgid "Expected a vector level: %1"
+msgstr "预期的矢量层级: %1"
+
+msgctxt "TScriptBinding::Rasterizer|"
+msgid "Argument must be a vector level or image : "
+msgstr "参数必须是矢量层级或图像: "
+
+#, qt-format
+msgctxt "TScriptBinding::Rasterizer|"
+msgid "%1 has no palette"
+msgstr "%1 没有调色板"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "File %1 doesn't exist"
+msgstr "文件 %1 不存在"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Exception reading %1"
+msgstr "读取 %1 时的异常"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Exception writing %1"
+msgstr "写入 %1 时的异常"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Bad level type (%1): must be Vector,Raster or ToonzRaster"
+msgstr "不正确的层级类型(%1): 必须是矢量、光栅或者 Toonz 光栅"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Can't add the level: name(%1) is already used"
+msgstr "无法添加层级: 名称(%1)已被使用"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Can't load this kind of file as a level : %1"
+msgstr "无法加载此类文件作为层级: %1"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Could not load level %1"
+msgstr "无法加载层级 %1"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Level is not included in the scene : %1"
+msgstr "层级未包含在此场景: %1"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "%1 : Expected a Level instance or a level name"
+msgstr "%1: 预期的层级矢量或者层级名"
+
+#, qt-format
+msgctxt "TScriptBinding::Scene|"
+msgid "Level '%1' is not included in the scene"
+msgstr "层级 '%1' 没有在这个场景中"
+
+#, qt-format
+msgctxt "TScriptBinding::ToonzRasterConverter|"
+msgid "Can't convert a %1 level"
+msgstr "无法转换层级 %1"
+
+msgctxt "TScriptBinding::ToonzRasterConverter|"
+msgid "Can't convert a level with no frames"
+msgstr "无法转换没有帧的层级"
+
+#, qt-format
+msgctxt "TScriptBinding::ToonzRasterConverter|"
+msgid "Can't convert a %1 image"
+msgstr "无法转换图像 %1"
+
+#, qt-format
+msgctxt "TScriptBinding::ToonzRasterConverter|"
+msgid "Bad argument (%1): should be a raster Level or a raster Image"
+msgstr "不正确的参数(%1): 应当是光栅层级或者光栅图像"
+
+msgctxt "TScriptBinding::Transform|"
+msgid "Identity"
+msgstr "标识"
+
+#, qt-format
+msgctxt "TScriptBinding::Transform|"
+msgid "Translation(%1,%2)"
+msgstr "移动(%1,%2)"
+
+#, qt-format
+msgctxt "TScriptBinding::Transform|"
+msgid "Rotation(%1)"
+msgstr "旋转(%1)"
+
+#, qt-format
+msgctxt "TScriptBinding::Transform|"
+msgid "Scale(%1%)"
+msgstr "缩放(%1%)"
+
+#, qt-format
+msgctxt "TScriptBinding::Transform|"
+msgid "Scale(%1%, %2%)"
+msgstr "缩放(%1%, %2%)"
+
+#, qt-format
+msgctxt "TScriptBinding::Transform|"
+msgid "Transform(%1, %2, %3;  %4, %5, %6)"
+msgstr "几何变换(%1, %2, %3;  %4, %5, %6)"
+
+#, qt-format
+#~ msgctxt "ToonzRasterConverter|"
+#~ msgid "Can't convert a %1 level"
+#~ msgstr "无法转换层级 %1"
+
+#~ msgctxt "ToonzRasterConverter|"
+#~ msgid "Can't convert a level with no frames"
+#~ msgstr "无法转换没有帧的层级"
+
+#, qt-format
+#~ msgctxt "ToonzRasterConverter|"
+#~ msgid "Can't convert a %1 image"
+#~ msgstr "无法转换图像 %1"
+
+#, qt-format
+#~ msgctxt "ToonzRasterConverter|"
+#~ msgid "Bad argument (%1): should be a raster Level or a raster Image"
+#~ msgstr "不正确的参数(%1): 应当是光栅层级或者光栅图像"
+
+#~ msgctxt "Transform|"
+#~ msgid "Identity"
+#~ msgstr "标识"
+
+#, qt-format
+#~ msgctxt "Transform|"
+#~ msgid "Translation(%1,%2)"
+#~ msgstr "移动(%1,%2)"
+
+#, qt-format
+#~ msgctxt "Transform|"
+#~ msgid "Rotation(%1)"
+#~ msgstr "旋转(%1)"
+
+#, qt-format
+#~ msgctxt "Transform|"
+#~ msgid "Scale(%1%)"
+#~ msgstr "缩放(%1%)"
+
+#, qt-format
+#~ msgctxt "Transform|"
+#~ msgid "Scale(%1%, %2%)"
+#~ msgstr "缩放(%1%, %2%)"
+
+#, qt-format
+#~ msgctxt "Transform|"
+#~ msgid "Transform(%1, %2, %3;  %4, %5, %6)"
+#~ msgstr "几何变换(%1, %2, %3;  %4, %5, %6)"

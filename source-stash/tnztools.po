@@ -1,0 +1,1820 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_CN\n"
+"X-Source-Language: en_US\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Pick:"
+msgstr "拾取:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Position"
+msgstr "位置"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "X:"
+msgstr "左右:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Y:"
+msgstr "上下:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Z:"
+msgstr "纵深:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "SO:"
+msgstr "堆栈顺序:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Rotation"
+msgstr "旋转"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Scale"
+msgstr "缩放"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Global:"
+msgstr "全局:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "H:"
+msgstr "水平:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "V:"
+msgstr "垂直:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Maintain:"
+msgstr "保持:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Shear"
+msgstr "切变"
+
+#~ msgctxt "ArrowToolOptionsBox|"
+#~ msgid "Center"
+#~ msgstr "中心点"
+
+#~ msgctxt "ArrowToolOptionsBox|"
+#~ msgid "Lock"
+#~ msgstr "锁定"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "("
+msgstr "("
+
+msgctxt "ArrowToolOptionsBox|"
+msgid ")"
+msgstr ")"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Center Position"
+msgstr "中心位置"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Position:"
+msgstr "位置:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Rotation:"
+msgstr "旋转:"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Table"
+msgstr "动画台"
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Flip Object Horizontally"
+msgstr ""
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Flip Object Vertically"
+msgstr ""
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Rotate Object Left"
+msgstr ""
+
+msgctxt "ArrowToolOptionsBox|"
+msgid "Rotate Object Right"
+msgstr ""
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Thickness"
+#~ msgstr "粗细"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Hardness:"
+#~ msgstr "硬度:"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Accuracy:"
+#~ msgstr "精度:"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Selective"
+#~ msgstr "选择性"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Preset:"
+#~ msgstr "预设:"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Break Sharp Angles"
+#~ msgstr "断开尖角"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Pencil Mode"
+#~ msgstr "铅笔模式"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Pressure Sensitivity"
+#~ msgstr "压力灵敏度"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Cap"
+#~ msgstr "端点"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Join"
+#~ msgstr "连接"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Miter:"
+#~ msgstr "斜接比例:"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Size"
+#~ msgstr "大小"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Break"
+#~ msgstr "断裂"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Pencil"
+#~ msgstr "铅笔"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Pressure"
+#~ msgstr "压感"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Smooth:"
+#~ msgstr "平滑:"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Range:"
+#~ msgstr "范围:"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Snap"
+#~ msgstr "吸附"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "<custom>"
+#~ msgstr "<定制>"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Off"
+#~ msgstr "关闭"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Linear"
+#~ msgstr "线性"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "In"
+#~ msgstr "内"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Out"
+#~ msgstr "外"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "In&Out"
+#~ msgstr "内&外"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Low"
+#~ msgstr "低"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "High"
+#~ msgstr "高"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Butt cap"
+#~ msgstr "平头"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Round cap"
+#~ msgstr "圆头"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Projecting cap"
+#~ msgstr "方头"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Miter join"
+#~ msgstr "斜接连接"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Round join"
+#~ msgstr "圆角连接"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Bevel join"
+#~ msgstr "斜角连接"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Med"
+#~ msgstr "中"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Draw Order:"
+#~ msgstr "绘制顺序:"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Over All"
+#~ msgstr "在最上"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Under All"
+#~ msgstr "在最下"
+
+#~ msgctxt "BrushTool|"
+#~ msgid "Palette Order"
+#~ msgstr "按调色板顺序"
+
+msgctxt "BrushToolOptionsBox|"
+msgid "Preset Name"
+msgstr "预设名称"
+
+msgctxt "BrushToolOptionsBox|"
+msgid "OK"
+msgstr "确定"
+
+msgctxt "BrushToolOptionsBox|"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "ControlPointEditorTool|"
+msgid "Auto Select Drawing"
+msgstr "自动选择绘图"
+
+msgctxt "ControlPointEditorTool|"
+msgid "Snap"
+msgstr "吸附"
+
+msgctxt "ControlPointEditorTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "ControlPointEditorTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "ControlPointEditorTool|"
+msgid "Freehand"
+msgstr "手绘"
+
+msgctxt "ControlPointEditorTool|"
+msgid "Low"
+msgstr "低"
+
+msgctxt "ControlPointEditorTool|"
+msgid "Med"
+msgstr "中"
+
+msgctxt "ControlPointEditorTool|"
+msgid "High"
+msgstr "高"
+
+msgctxt "ControlPointSelection|"
+msgid "Set Linear Control Point"
+msgstr "设置线性控制点"
+
+msgctxt "ControlPointSelection|"
+msgid "Set Nonlinear Control Point"
+msgstr "设置非线性控制点"
+
+msgctxt "DVGui::StyleIndexLineEdit|"
+msgid "current"
+msgstr "当前"
+
+msgctxt "EditTool|"
+msgid "Scale Constraint:"
+msgstr "缩放设置:"
+
+msgctxt "EditTool|"
+msgid "Auto Select Column"
+msgstr "自动选择列"
+
+msgctxt "EditTool|"
+msgid "Global Key"
+msgstr "全局关键帧"
+
+msgctxt "EditTool|"
+msgid "Lock Center X"
+msgstr "锁定中心点(左右)"
+
+msgctxt "EditTool|"
+msgid "Lock Center Y"
+msgstr "锁定中心点(上下)"
+
+msgctxt "EditTool|"
+msgid "Lock Position X"
+msgstr "锁定位置(左右)"
+
+msgctxt "EditTool|"
+msgid "Lock Position Y"
+msgstr "锁定位置(上下)"
+
+msgctxt "EditTool|"
+msgid "Lock Rotation"
+msgstr "锁定旋转"
+
+msgctxt "EditTool|"
+msgid "Lock Shear H"
+msgstr "锁定切变(水平)"
+
+msgctxt "EditTool|"
+msgid "Lock Shear V"
+msgstr "锁定切变(垂直)"
+
+msgctxt "EditTool|"
+msgid "Lock Scale H"
+msgstr "锁定缩放(水平)"
+
+msgctxt "EditTool|"
+msgid "Lock Scale V"
+msgstr "锁定缩放(垂直)"
+
+msgctxt "EditTool|"
+msgid "Lock Global Scale"
+msgstr "锁定缩放(全局)"
+
+msgctxt "EditTool|"
+msgid "X and Y Positions"
+msgstr "左右和上下位置"
+
+msgctxt "EditTool|"
+msgid "Z Position"
+msgstr "纵深位置"
+
+msgctxt "EditTool|"
+msgid "SO"
+msgstr "堆栈顺序"
+
+msgctxt "EditTool|"
+msgid "Rotation"
+msgstr "旋转"
+
+msgctxt "EditTool|"
+msgid "Global Scale"
+msgstr "全局缩放"
+
+msgctxt "EditTool|"
+msgid "Horizontal and Vertical Scale"
+msgstr "水平和垂直缩放"
+
+msgctxt "EditTool|"
+msgid "Shear"
+msgstr "切变"
+
+msgctxt "EditTool|"
+msgid "Center Position"
+msgstr "中心位置"
+
+msgctxt "EditTool|"
+msgid "Active Axis"
+msgstr "当前轴"
+
+msgctxt "EditTool|"
+msgid "None"
+msgstr "无"
+
+msgctxt "EditTool|"
+msgid "A/R"
+msgstr "A/R"
+
+msgctxt "EditTool|"
+msgid "Mass"
+msgstr "大量"
+
+msgctxt "EditTool|"
+msgid "Column"
+msgstr "列"
+
+msgctxt "EditTool|"
+msgid "Pegbar"
+msgstr "定位尺"
+
+msgctxt "EditTool|"
+msgid "Position"
+msgstr "位置"
+
+msgctxt "EditTool|"
+msgid "Scale"
+msgstr "缩放"
+
+msgctxt "EditTool|"
+msgid "Center"
+msgstr "中心点"
+
+msgctxt "EditTool|"
+msgid "All"
+msgstr "全部"
+
+msgctxt "EraserTool|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "EraserTool|"
+msgid "Hardness:"
+msgstr "硬度:"
+
+msgctxt "EraserTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "EraserTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "EraserTool|"
+msgid "Selective"
+msgstr "选择性"
+
+msgctxt "EraserTool|"
+msgid "Invert"
+msgstr "反转"
+
+msgctxt "EraserTool|"
+msgid "Frame Range"
+msgstr "帧范围"
+
+msgctxt "EraserTool|"
+msgid "Pencil Mode"
+msgstr "铅笔模式"
+
+msgctxt "EraserTool|"
+msgid "Normal"
+msgstr "正常"
+
+msgctxt "EraserTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "EraserTool|"
+msgid "Freehand"
+msgstr "手绘"
+
+msgctxt "EraserTool|"
+msgid "Polyline"
+msgstr "折线"
+
+msgctxt "EraserTool|"
+msgid "Lines"
+msgstr "线"
+
+msgctxt "EraserTool|"
+msgid "Areas"
+msgstr "区域"
+
+msgctxt "EraserTool|"
+msgid "Lines & Areas"
+msgstr "线和区域"
+
+msgctxt "EraserTool|"
+msgid "Segment"
+msgstr "自动分段"
+
+msgctxt "EraserTool|"
+msgid "Linear"
+msgstr "线性"
+
+msgctxt "EraserTool|"
+msgid "Ease In"
+msgstr "渐入"
+
+msgctxt "EraserTool|"
+msgid "Ease Out"
+msgstr "渐出"
+
+msgctxt "EraserTool|"
+msgid "Ease In/Out"
+msgstr "渐入/出"
+
+msgctxt "FillTool|"
+msgid "Frame Range"
+msgstr "帧范围"
+
+msgctxt "FillTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "FillTool|"
+msgid "Selective"
+msgstr "选择性"
+
+msgctxt "FillTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "FillTool|"
+msgid "Onion Skin"
+msgstr "洋葱皮"
+
+msgctxt "FillTool|"
+msgid "Fill Depth"
+msgstr "填充深度"
+
+msgctxt "FillTool|"
+msgid "Segment"
+msgstr "自动分段"
+
+msgctxt "FillTool|"
+msgid "Lines"
+msgstr "线"
+
+msgctxt "FillTool|"
+msgid "Areas"
+msgstr "区域"
+
+#~ msgctxt "FillTool|"
+#~ msgid "Lines && Areas"
+#~ msgstr "线和区域"
+
+msgctxt "FillTool|"
+msgid "Normal"
+msgstr "正常"
+
+msgctxt "FillTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "FillTool|"
+msgid "Freehand"
+msgstr "手绘"
+
+msgctxt "FillTool|"
+msgid "Polyline"
+msgstr "折线"
+
+msgctxt "FillTool|"
+msgid "Autopaint Lines"
+msgstr "自动填充线"
+
+msgctxt "FillTool|"
+msgid "Lines & Areas"
+msgstr "线和区域"
+
+msgctxt "FillTool|"
+msgid "Maximum Gap"
+msgstr "最大间隙"
+
+msgctxt "FillTool|"
+msgid "Pick+Freehand"
+msgstr ""
+
+msgctxt "FingerTool|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "FingerTool|"
+msgid "Invert"
+msgstr "反转"
+
+#~ msgctxt "FullColorBrushTool|"
+#~ msgid "Thickness"
+#~ msgstr "粗细"
+
+#~ msgctxt "FullColorBrushTool|"
+#~ msgid "Pressure Sensitivity"
+#~ msgstr "压力灵敏度"
+
+#~ msgctxt "FullColorBrushTool|"
+#~ msgid "Opacity:"
+#~ msgstr "不透明度:"
+
+msgctxt "FullColorBrushTool|"
+msgid "Hardness:"
+msgstr "硬度:"
+
+msgctxt "FullColorBrushTool|"
+msgid "Preset:"
+msgstr "预设:"
+
+msgctxt "FullColorBrushTool|"
+msgid "Size"
+msgstr "大小"
+
+msgctxt "FullColorBrushTool|"
+msgid "Pressure"
+msgstr "压感"
+
+msgctxt "FullColorBrushTool|"
+msgid "Opacity"
+msgstr "不透明度"
+
+msgctxt "FullColorBrushTool|"
+msgid "Eraser"
+msgstr "橡皮差"
+
+msgctxt "FullColorBrushTool|"
+msgid "Lock Alpha"
+msgstr "锁定透明度"
+
+msgctxt "FullColorBrushTool|"
+msgid "<custom>"
+msgstr "<定制>"
+
+msgctxt "FullColorEraserTool|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "FullColorEraserTool|"
+msgid "Opacity:"
+msgstr "不透明度:"
+
+msgctxt "FullColorEraserTool|"
+msgid "Hardness:"
+msgstr "硬度:"
+
+msgctxt "FullColorEraserTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "FullColorEraserTool|"
+msgid "Invert"
+msgstr "反转"
+
+msgctxt "FullColorEraserTool|"
+msgid "Frame Range"
+msgstr "帧范围"
+
+msgctxt "FullColorEraserTool|"
+msgid "Normal"
+msgstr "正常"
+
+msgctxt "FullColorEraserTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "FullColorEraserTool|"
+msgid "Freehand"
+msgstr "手绘"
+
+msgctxt "FullColorEraserTool|"
+msgid "Polyline"
+msgstr "折线"
+
+msgctxt "FullColorFillTool|"
+msgid "Fill Depth"
+msgstr "填充深度"
+
+msgctxt "HandToolOptionsBox|"
+msgid "Reset Position"
+msgstr "重置位置"
+
+msgctxt "HookTool|"
+msgid "Snap"
+msgstr "吸附"
+
+msgctxt "MagnetTool|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "PaintBrushTool|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "PaintBrushTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "PaintBrushTool|"
+msgid "Selective"
+msgstr "选择性"
+
+msgctxt "PaintBrushTool|"
+msgid "Lines"
+msgstr "线"
+
+msgctxt "PaintBrushTool|"
+msgid "Areas"
+msgstr "区域"
+
+msgctxt "PaintBrushTool|"
+msgid "Lines & Areas"
+msgstr "线和区域"
+
+msgctxt "PaintBrushTool|"
+msgid "Lock Alpha"
+msgstr "锁定透明度"
+
+msgctxt "PinchTool|"
+msgid "Size:"
+msgstr "作用范围："
+
+msgctxt "PinchTool|"
+msgid "Corner:"
+msgstr "拐角:"
+
+msgctxt "PinchTool|"
+msgid "Manual"
+msgstr "手动"
+
+msgctxt "PlasticTool|"
+msgid "Build Skeleton"
+msgstr "制作骨架"
+
+msgctxt "PlasticTool|"
+msgid "Paint Rigid"
+msgstr "绘画刚性"
+
+msgctxt "PlasticTool|"
+msgid "Animate"
+msgstr "动画"
+
+msgctxt "PlasticTool|"
+msgid "Rigid"
+msgstr "刚性"
+
+msgctxt "PlasticTool|"
+msgid "Flex"
+msgstr "弹性"
+
+msgctxt "PlasticTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "PlasticTool|"
+msgid "Vertex Name:"
+msgstr "顶点名:"
+
+msgctxt "PlasticTool|"
+msgid "Allow Stretching"
+msgstr "允许伸缩"
+
+msgctxt "PlasticTool|"
+msgid "Thickness"
+msgstr "粗细"
+
+msgctxt "PlasticTool|"
+msgid "Keep Distance"
+msgstr "保持距离"
+
+msgctxt "PlasticTool|"
+msgid "Global Key"
+msgstr "全局关键帧"
+
+msgctxt "PlasticTool|"
+msgid ""
+"A group of skeletons already exists for current column. Replacing it will "
+"also substitute any existing vertex animation.\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"当前列已经包含了一个骨架组。替换它会换掉全部现有的顶点动画。\n"
+"\n"
+"你要继续吗？"
+
+msgctxt "PlasticTool|"
+msgid "Ok"
+msgstr "确定"
+
+msgctxt "PlasticTool|"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "PlasticTool|"
+msgid "Copy Skeleton"
+msgstr "拷贝骨架"
+
+msgctxt "PlasticTool|"
+msgid "Paste Skeleton"
+msgstr "粘贴骨架"
+
+msgctxt "PlasticTool|"
+msgid "Delete Vertex"
+msgstr "删除顶点"
+
+msgctxt "PlasticTool|"
+msgid "Set Key"
+msgstr "设置关键帧"
+
+msgctxt "PlasticTool|"
+msgid "Set Rest Key"
+msgstr "设置休止关键帧"
+
+msgctxt "PlasticTool|"
+msgid "Set Global Key"
+msgstr "设置全局关键帧"
+
+msgctxt "PlasticTool|"
+msgid "Set Global Rest Key"
+msgstr "设置全局休止关键帧"
+
+msgctxt "PlasticTool|"
+msgid "Show Mesh"
+msgstr "显示网格"
+
+msgctxt "PlasticTool|"
+msgid "Show Rigidity"
+msgstr "显示刚性"
+
+msgctxt "PlasticTool|"
+msgid "Show SO"
+msgstr "显示堆栈顺序"
+
+msgctxt "PlasticTool|"
+msgid "Show Skeleton Onion Skin"
+msgstr "显示骨架洋葱皮"
+
+msgctxt "PlasticTool|"
+msgid ""
+"The previous vertex name will be discarded, and all associated keys will be "
+"lost.\n"
+"\n"
+"Do you want to proceed?"
+msgstr ""
+"之前的顶点名称会被放弃，所有关联的关键帧也会丢失。\n"
+"\n"
+"你要继续吗？"
+
+msgctxt "PlasticTool|"
+msgid "Edit Mesh"
+msgstr "编辑网格"
+
+msgctxt "PlasticTool|"
+msgid "Snap To Mesh"
+msgstr "吸附网格"
+
+msgctxt "PlasticTool|"
+msgid "Angle Bounds"
+msgstr "角度限制范围"
+
+msgctxt "PlasticTool|"
+msgid "Swap Edge"
+msgstr "交换边缘"
+
+msgctxt "PlasticTool|"
+msgid "Collapse Edge"
+msgstr "折叠边缘"
+
+msgctxt "PlasticTool|"
+msgid "Split Edge"
+msgstr "拆分边缘"
+
+msgctxt "PlasticTool|"
+msgid "Cut Mesh"
+msgstr "剪切网格"
+
+msgctxt "PlasticToolOptionsBox|"
+msgid "Create Mesh"
+msgstr "创建网格"
+
+msgctxt "PlasticToolOptionsBox|"
+msgid "Skeleton:"
+msgstr "骨架:"
+
+msgctxt "PlasticToolOptionsBox|"
+msgid "SO"
+msgstr "堆栈顺序"
+
+msgctxt "PlasticToolOptionsBox|"
+msgid "Angle"
+msgstr "角度"
+
+msgctxt "PlasticToolOptionsBox|"
+msgid "Distance"
+msgstr "距离"
+
+msgctxt "PrimitiveParam|"
+msgid "Shape:"
+msgstr "形状:"
+
+msgctxt "PrimitiveParam|"
+msgid "Thickness:"
+msgstr "粗细:"
+
+msgctxt "PrimitiveParam|"
+msgid "Opacity:"
+msgstr "不透明度:"
+
+msgctxt "PrimitiveParam|"
+msgid "Hardness:"
+msgstr "硬度:"
+
+msgctxt "PrimitiveParam|"
+msgid "Polygon Sides:"
+msgstr "多边形边数:"
+
+msgctxt "PrimitiveParam|"
+msgid "Auto Group"
+msgstr "自动成组"
+
+msgctxt "PrimitiveParam|"
+msgid "Auto Fill"
+msgstr "自动填充"
+
+msgctxt "PrimitiveParam|"
+msgid "Selective"
+msgstr "选择性"
+
+msgctxt "PrimitiveParam|"
+msgid "Pencil Mode"
+msgstr "铅笔模式"
+
+msgctxt "PrimitiveParam|"
+msgid "Cap"
+msgstr "端点"
+
+msgctxt "PrimitiveParam|"
+msgid "Join"
+msgstr "连接"
+
+msgctxt "PrimitiveParam|"
+msgid "Miter:"
+msgstr "斜角比例:"
+
+msgctxt "PrimitiveParam|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "PrimitiveParam|"
+msgid "Snap"
+msgstr "吸附"
+
+msgctxt "PrimitiveParam|"
+msgid "Rectangle"
+msgstr "矩形"
+
+msgctxt "PrimitiveParam|"
+msgid "Circle"
+msgstr "圆"
+
+msgctxt "PrimitiveParam|"
+msgid "Ellipse"
+msgstr "椭圆"
+
+msgctxt "PrimitiveParam|"
+msgid "Line"
+msgstr "线"
+
+msgctxt "PrimitiveParam|"
+msgid "Polyline"
+msgstr "折线"
+
+msgctxt "PrimitiveParam|"
+msgid "Arc"
+msgstr "弧"
+
+msgctxt "PrimitiveParam|"
+msgid "Polygon"
+msgstr "多边形"
+
+msgctxt "PrimitiveParam|"
+msgid "Butt cap"
+msgstr "平头"
+
+msgctxt "PrimitiveParam|"
+msgid "Round cap"
+msgstr "圆头"
+
+msgctxt "PrimitiveParam|"
+msgid "Projecting cap"
+msgstr "方头"
+
+msgctxt "PrimitiveParam|"
+msgid "Miter join"
+msgstr "斜接连接"
+
+msgctxt "PrimitiveParam|"
+msgid "Round join"
+msgstr "圆角连接"
+
+msgctxt "PrimitiveParam|"
+msgid "Bevel join"
+msgstr "斜角连接"
+
+msgctxt "PrimitiveParam|"
+msgid "Low"
+msgstr "低"
+
+msgctxt "PrimitiveParam|"
+msgid "High"
+msgstr "高"
+
+msgctxt "PrimitiveParam|"
+msgid "Med"
+msgstr "中"
+
+msgctxt "PrimitiveParam|"
+msgid "MultiArc"
+msgstr "多段弧形"
+
+msgctxt "PrimitiveParam|"
+msgid "Smooth"
+msgstr "平滑"
+
+msgctxt "PrimitiveParam|"
+msgid "Rotate"
+msgstr "旋转"
+
+msgctxt "PumpTool|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "PumpTool|"
+msgid "Accuracy:"
+msgstr "精度:"
+
+msgctxt "QObject|"
+msgid "Min:"
+msgstr "最小:"
+
+msgctxt "QObject|"
+msgid "Max:"
+msgstr "最大:"
+
+msgctxt "QObject|"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "QObject|"
+msgid "No"
+msgstr "否"
+
+msgctxt "QObject|"
+msgid "The copied selection cannot be pasted in the current drawing."
+msgstr "无法将拷贝的选区粘贴到当前图像。"
+
+msgctxt "QObject|"
+msgid "The current column is locked."
+msgstr "当前列被锁定。"
+
+#~ msgctxt "QObject|"
+#~ msgid "The current column is not visible in Camera Stand."
+#~ msgstr "当前列在摄影机位中不可见。"
+
+msgctxt "QObject|"
+msgid "It is not possible to edit the audio column."
+msgstr "无法编辑音频列。"
+
+#~ msgctxt "QObject|"
+#~ msgid "It is not possible to edit the Magpie column."
+#~ msgstr "无法编辑 MAGPIE 列。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used on a Level column."
+msgstr "当前工具不能用在层级列上。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used on a Mesh column."
+msgstr "当前工具不能用在网格列上。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used in Level Strip mode."
+msgstr "当前工具不能用于层级条模式。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used to edit a motion path."
+msgstr "当前工具不能用来编辑运动路径。"
+
+msgctxt "QObject|"
+msgid "The current level is not editable."
+msgstr "当前层级是不可编辑的。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used on a Vector Level."
+msgstr "当前工具不能用在矢量层级上。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used on a Toonz Level."
+msgstr "当前工具不能用在 Toonz 层级上。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used on a Raster Level."
+msgstr "当前工具不能用在光栅层级上。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used on a Mesh Level."
+msgstr "当前工具不能用在网格层级上。"
+
+msgctxt "QObject|"
+msgid "The current tool cannot be used on a mesh-deformed level"
+msgstr "当前工具不能用在在网格变形层级上"
+
+msgctxt "QObject|"
+msgid "The current frame is locked: any editing is forbidden."
+msgstr "当前帧已经被锁定: 禁止所有编辑。"
+
+msgctxt "QObject|"
+msgid "Ok"
+msgstr "确定"
+
+msgctxt "QObject|"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "QObject|"
+msgid "Paste"
+msgstr "粘贴"
+
+msgctxt "QObject|"
+msgid "Move Center"
+msgstr "移动中心"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "RGB Picker (R%1, G%2, B%3)"
+msgstr "RGB 拾色器 (R%1, G%2, B%3)"
+
+msgctxt "QObject|"
+msgid "Group"
+msgstr "成组"
+
+msgctxt "QObject|"
+msgid "Ungroup"
+msgstr "解组"
+
+msgctxt "QObject|"
+msgid "Move Group"
+msgstr "移动组"
+
+msgctxt "QObject|"
+msgid "Modify Fx Gadget  "
+msgstr "修改特效小工具  "
+
+#, qt-format
+msgctxt "QObject|"
+msgid "%1   Level : %2  Frame : %3"
+msgstr "%1   层级 : %2  帧 : %3"
+
+msgctxt "QObject|"
+msgid "Modify Stroke Tool"
+msgstr "修改描边工具"
+
+msgctxt "QObject|"
+msgid "Modify Spline"
+msgstr "修改样条线"
+
+msgctxt "QObject|"
+msgid "Deform Raster"
+msgstr "变形光栅图"
+
+msgctxt "QObject|"
+msgid "Transform Raster"
+msgstr "变换光栅图"
+
+#, qt-format
+msgctxt "QObject|"
+msgid "Set Save Box : (X%1,Y%2,W%3,H%4)->(X%5,Y%6,W%7,H%8)"
+msgstr "设置保存框 : (X%1,Y%2,W%3,H%4)->(X%5,Y%6,W%7,H%8)"
+
+msgctxt "QObject|"
+msgid "The current column is hidden."
+msgstr "当前列被隐藏。"
+
+msgctxt "QObject|"
+msgid "Note columns can only be edited in the xsheet or timeline."
+msgstr "注意列只能在摄影表或者时间轴上编辑。"
+
+msgctxt "QObject|"
+msgid " to Front"
+msgstr " 到最前"
+
+msgctxt "QObject|"
+msgid " to Forward"
+msgstr " 向前"
+
+msgctxt "QObject|"
+msgid " to Back"
+msgstr " 到最后"
+
+msgctxt "QObject|"
+msgid " to Backward"
+msgstr " 向后"
+
+msgctxt "QObject|"
+msgid "The selection cannot be updated. It is not editable."
+msgstr "所选择的不能被更新。它不是可编辑的。"
+
+msgctxt "QObject|"
+msgid "The selection cannot be deleted. It is not editable."
+msgstr "所选择的不能被删除。它不是可编辑的。"
+
+msgctxt "QObject|"
+msgid "The selection cannot be pasted. It is not editable."
+msgstr "所选择的不能被粘贴。它不是可编辑的。"
+
+msgctxt "QObject|"
+msgid "The selection cannot be grouped. It is not editable."
+msgstr "所选择的不能被成组。它不是可编辑的。"
+
+msgctxt "QObject|"
+msgid "The selection cannot be entered. It is not editable."
+msgstr "所选择的不能被进入。它不是可编辑的。"
+
+msgctxt "QObject|"
+msgid "The selection cannot be ungrouped. It is not editable."
+msgstr "所选择的不能被取消群组。它不是可编辑的。"
+
+msgctxt "QObject|"
+msgid "The selection cannot be moved. It is not editable."
+msgstr "所选择的不能被移动。它不是可编辑的。"
+
+msgctxt "QObject|"
+msgid "Snap At Intersection"
+msgstr "吸附在交点"
+
+msgctxt "RGBPickerTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "RGBPickerTool|"
+msgid "Passive Pick"
+msgstr "拾取光标位置颜色"
+
+msgctxt "RGBPickerTool|"
+msgid "Normal"
+msgstr "正常"
+
+msgctxt "RGBPickerTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "RGBPickerTool|"
+msgid "Freehand"
+msgstr "手绘"
+
+msgctxt "RGBPickerTool|"
+msgid "Polyline"
+msgstr "折线"
+
+msgctxt "RGBPickerToolOptionsBox|"
+msgid "Pick Screen"
+msgstr "屏幕拾色"
+
+msgctxt "RasterSelectionTool|"
+msgid "No Antialiasing"
+msgstr "不作抗锯齿处理"
+
+msgctxt "RasterSelectionTool|"
+msgid "Modify Savebox"
+msgstr "修改保险框"
+
+msgctxt "RasterTapeTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "RasterTapeTool|"
+msgid "Distance:"
+msgstr "距离:"
+
+msgctxt "RasterTapeTool|"
+msgid "Style Index:"
+msgstr "样式索引:"
+
+msgctxt "RasterTapeTool|"
+msgid "Opacity:"
+msgstr "不透明度:"
+
+msgctxt "RasterTapeTool|"
+msgid "Frame Range"
+msgstr "帧范围"
+
+msgctxt "RasterTapeTool|"
+msgid "Angle:"
+msgstr "角度:"
+
+msgctxt "RasterTapeTool|"
+msgid "Normal"
+msgstr "正常"
+
+msgctxt "RasterTapeTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "RasterTapeTool|"
+msgid "Freehand"
+msgstr "手绘"
+
+msgctxt "RasterTapeTool|"
+msgid "Polyline"
+msgstr "折线"
+
+msgctxt "RasterTapeTool|"
+msgid "current"
+msgstr "当前"
+
+msgctxt "RotateTool|"
+msgid "Rotate On Camera Center"
+msgstr "以相机中心旋转"
+
+msgctxt "RotateToolOptionsBox|"
+msgid "Reset Rotation"
+msgstr "重置旋转"
+
+msgctxt "RulerToolOptionsBox|ruler tool option"
+msgid "X:"
+msgstr "横坐标:"
+
+msgctxt "RulerToolOptionsBox|ruler tool option"
+msgid "Y:"
+msgstr "纵坐标:"
+
+msgctxt "RulerToolOptionsBox|ruler tool option"
+msgid "W:"
+msgstr "宽度:"
+
+msgctxt "RulerToolOptionsBox|ruler tool option"
+msgid "H:"
+msgstr "高度:"
+
+msgctxt "RulerToolOptionsBox|ruler tool option"
+msgid "A:"
+msgstr "角度:"
+
+msgctxt "RulerToolOptionsBox|ruler tool option"
+msgid "L:"
+msgstr "长度:"
+
+msgctxt "SelectionTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "SelectionTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "SelectionTool|"
+msgid "Freehand"
+msgstr "手绘"
+
+msgctxt "SelectionTool|"
+msgid "Polyline"
+msgstr "折线"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "H:"
+msgstr "水平:"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "V:"
+msgstr "垂直:"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Rotation"
+msgstr "旋转"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "X:"
+msgstr "左右:"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Y:"
+msgstr "上下:"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Thickness"
+msgstr "粗细"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Link"
+msgstr "保持长宽比"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Scale"
+msgstr "缩放"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Position"
+msgstr "位置"
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Flip Selection Horizontally"
+msgstr ""
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Flip Selection Vertically"
+msgstr ""
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Rotate Selection Left"
+msgstr ""
+
+msgctxt "SelectionToolOptionsBox|"
+msgid "Rotate Selection Right"
+msgstr ""
+
+msgctxt "ShiftTraceToolOptionBox|"
+msgid "Reset Previous"
+msgstr "重置前面的"
+
+msgctxt "ShiftTraceToolOptionBox|"
+msgid "Reset Following"
+msgstr "重置后面的"
+
+msgctxt "ShiftTraceToolOptionBox|"
+msgid "Previous Drawing"
+msgstr "前面的绘图"
+
+msgctxt "ShiftTraceToolOptionBox|"
+msgid "Following Drawing"
+msgstr "后面的绘图"
+
+msgctxt "SkeletonTool|"
+msgid "Global Key"
+msgstr "全局关键帧"
+
+msgctxt "SkeletonTool|"
+msgid "Show Only Active Skeleton"
+msgstr "仅显示活动的骨架"
+
+msgctxt "SkeletonTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "SkeletonTool|"
+msgid "Reset Pinned Center"
+msgstr "重置固定中心"
+
+msgctxt "SkeletonTool|"
+msgid "Build Skeleton"
+msgstr "制作骨架"
+
+msgctxt "SkeletonTool|"
+msgid "Animate"
+msgstr "动画"
+
+msgctxt "SkeletonTool|"
+msgid "Inverse Kinematics"
+msgstr "反向运动学"
+
+msgctxt "StylePickerTool|"
+msgid "No current level."
+msgstr "没有当前层级。"
+
+msgctxt "StylePickerTool|"
+msgid "Current level has no available palette."
+msgstr "当前层级没有可用色板。"
+
+msgctxt "StylePickerTool|"
+msgid "Palette must have more than one palette to be organized."
+msgstr "必须要多个色板才能被组织。"
+
+msgctxt "StylePickerTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "StylePickerTool|"
+msgid "Passive Pick"
+msgstr "拾取光标位置颜色"
+
+msgctxt "StylePickerTool|"
+msgid "Organize Palette"
+msgstr "整理调色板"
+
+msgctxt "StylePickerTool|"
+msgid "Lines"
+msgstr "线"
+
+msgctxt "StylePickerTool|"
+msgid "Areas"
+msgstr "区域"
+
+msgctxt "StylePickerTool|"
+msgid "Lines & Areas"
+msgstr "线和区域"
+
+msgctxt "StylePickerToolOptionsBox|"
+msgid ""
+"With this option being activated, the picked style will be\n"
+"moved to the end of the first page of the palette."
+msgstr "打开这个选项，选中的样式将被移到色板第一页的最后。"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Size"
+msgstr "大小"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Hardness:"
+msgstr "硬度:"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Smooth:"
+msgstr "平滑:"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Draw Order:"
+msgstr "绘制顺序:"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Over All"
+msgstr "在最上"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Under All"
+msgstr "在最下"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Palette Order"
+msgstr "按调色板顺序"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Preset:"
+msgstr "预设:"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "<custom>"
+msgstr "<定制>"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Pencil"
+msgstr "铅笔"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Pressure"
+msgstr "压感"
+
+msgctxt "ToonzRasterBrushTool|"
+msgid "Lock Alpha"
+msgstr "锁定透明度"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Size"
+msgstr "大小"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Accuracy:"
+msgstr "精度:"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Smooth:"
+msgstr "平滑:"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Preset:"
+msgstr "预设:"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "<custom>"
+msgstr "<定制>"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Break"
+msgstr "断裂"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Pressure"
+msgstr "压感"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Cap"
+msgstr "端点"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Join"
+msgstr "连接"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Miter:"
+msgstr "斜接比例:"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Range:"
+msgstr "范围:"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Snap"
+msgstr "吸附"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Off"
+msgstr "关闭"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Linear"
+msgstr "线性"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "In"
+msgstr "内"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Out"
+msgstr "外"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "In&Out"
+msgstr "内&外"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Low"
+msgstr "低"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Med"
+msgstr "中"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "High"
+msgstr "高"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Butt cap"
+msgstr "平头"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Round cap"
+msgstr "圆头"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Projecting cap"
+msgstr "方头"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Miter join"
+msgstr "斜接连接"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Round join"
+msgstr "圆角连接"
+
+msgctxt "ToonzVectorBrushTool|"
+msgid "Bevel join"
+msgstr "斜角连接"
+
+msgctxt "TrackerTool|"
+msgid "Width:"
+msgstr "宽度:"
+
+msgctxt "TrackerTool|"
+msgid "Height:"
+msgstr "高度:"
+
+msgctxt "TrackerTool|"
+msgid "X:"
+msgstr "X:"
+
+msgctxt "TrackerTool|"
+msgid "Y:"
+msgstr "Y:"
+
+msgctxt "TypeTool|"
+msgid "Font:"
+msgstr "字体:"
+
+msgctxt "TypeTool|"
+msgid "Style:"
+msgstr "样式:"
+
+msgctxt "TypeTool|"
+msgid "Vertical Orientation"
+msgstr "直排"
+
+msgctxt "TypeTool|"
+msgid "Size:"
+msgstr "大小:"
+
+msgctxt "VectorSelectionTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "VectorSelectionTool|"
+msgid "Preserve Thickness"
+msgstr "保持粗细"
+
+msgctxt "VectorSelectionTool|"
+msgid "Cap"
+msgstr "端点"
+
+msgctxt "VectorSelectionTool|"
+msgid "Join"
+msgstr "连接"
+
+msgctxt "VectorSelectionTool|"
+msgid "Miter:"
+msgstr "斜接比例:"
+
+msgctxt "VectorSelectionTool|"
+msgid "Standard"
+msgstr "标准"
+
+msgctxt "VectorSelectionTool|"
+msgid "Selected Frames"
+msgstr "已选帧"
+
+msgctxt "VectorSelectionTool|"
+msgid "Whole Level"
+msgstr "整个层级"
+
+msgctxt "VectorSelectionTool|"
+msgid "Same Style"
+msgstr "相同类型"
+
+msgctxt "VectorSelectionTool|"
+msgid "Same Style on Selected Frames"
+msgstr "已选帧中的同类型"
+
+msgctxt "VectorSelectionTool|"
+msgid "Same Style on Whole Level"
+msgstr "整个层级中的同类型"
+
+msgctxt "VectorSelectionTool|"
+msgid "Boundary Strokes"
+msgstr "边界描边"
+
+msgctxt "VectorSelectionTool|"
+msgid "Boundaries on Selected Frames"
+msgstr "所选帧的边界"
+
+msgctxt "VectorSelectionTool|"
+msgid "Boundaries on Whole Level"
+msgstr "整个层级的边界"
+
+msgctxt "VectorSelectionTool|"
+msgid "Butt cap"
+msgstr "平头"
+
+msgctxt "VectorSelectionTool|"
+msgid "Round cap"
+msgstr "圆头"
+
+msgctxt "VectorSelectionTool|"
+msgid "Projecting cap"
+msgstr "方头"
+
+msgctxt "VectorSelectionTool|"
+msgid "Miter join"
+msgstr "斜接连接"
+
+msgctxt "VectorSelectionTool|"
+msgid "Round join"
+msgstr "圆角连接"
+
+msgctxt "VectorSelectionTool|"
+msgid "Bevel join"
+msgstr "斜角连接"
+
+msgctxt "VectorSelectionTool|"
+msgid "Include Intersection"
+msgstr "包括交点"
+
+msgctxt "VectorTapeTool|"
+msgid "Smooth"
+msgstr "平滑"
+
+msgctxt "VectorTapeTool|"
+msgid "Join Vectors"
+msgstr "连接矢量"
+
+msgctxt "VectorTapeTool|"
+msgid "Distance"
+msgstr "距离"
+
+msgctxt "VectorTapeTool|"
+msgid "Mode:"
+msgstr "模式:"
+
+msgctxt "VectorTapeTool|"
+msgid "Type:"
+msgstr "类型:"
+
+msgctxt "VectorTapeTool|"
+msgid "Endpoint to Endpoint"
+msgstr "端点到端点"
+
+msgctxt "VectorTapeTool|"
+msgid "Endpoint to Line"
+msgstr "端点到线"
+
+msgctxt "VectorTapeTool|"
+msgid "Line to Line"
+msgstr "线到线"
+
+msgctxt "VectorTapeTool|"
+msgid "Normal"
+msgstr "正常"
+
+msgctxt "VectorTapeTool|"
+msgid "Rectangular"
+msgstr "矩形"
+
+msgctxt "ZoomToolOptionsBox|"
+msgid "Reset Zoom"
+msgstr "重置缩放"

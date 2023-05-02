@@ -1,0 +1,10 @@
+4/30/23 9:20 AM
+            	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Repetitions:	      56	  296	                       1737	                         1955	
+Exact match:	    4763	15103	                      78064	                        88780	
+95%-100%:   	       3	   17	                         83	                          103	
+85%-94%:    	       6	   30	                        143	                          169	
+75%-84%:    	      12	   58	                        266	                          313	
+50%-74%:    	      33	  168	                        831	                          966	
+No match:   	     115	  661	                       3345	                         3893	
+Total:      	    4988	16333	                      84469	                        96179	
