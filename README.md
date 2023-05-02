@@ -17,7 +17,7 @@
 ```
 lconvert colorfx.ts -o colorfx.po && lconvert image.ts -o image.po && lconvert tnzcore.ts -o tnzcore.po && lconvert tnztools.ts -o tnztools.po && lconvert toonz.ts -o toonz.po && lconvert toonzlib.ts -o toonzlib.po && lconvert toonzqt.ts -o toonzqt.po
 ```
-### Translate with OmegaT
+### Translate and QA with OmegaT
 Version: OmegaT-4.3.3_0_924066809
 
 ### Convert PO back to TS with lconvert in OmegaT target dir
